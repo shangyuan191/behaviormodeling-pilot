@@ -1,0 +1,59 @@
+X0016 | Now that we know Olivia has 33 dollars left after spending 78 dollars, we can calculate how much money she had at first by adding the amount she spent to the amount she has left.  $$ \text{Initial amount} = \text{Amount 
+X0019 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  Weekly earnings = Total earnings / Number of weeks Weekl
+X0025 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。因此，阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  提交最終答案：8。
+X0027 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  $$ \text{Weekly earnings} = \frac{\text{Total earnings}}
+X0035 | Now that we know there are 4 pieces in each package of gum, we can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4
+X0046 | Now that I know each ticket costs $44, I can calculate the total cost for 7 tickets.   Total cost = Number of tickets × Cost per ticket Total cost = 7 × $44  Let me compute the total cost.
+X0054 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。因此，阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  提交答案：8。
+X0061 | Now that we know there were 8 flowerbeds, we can calculate the number of seeds planted in each flowerbed by dividing the total number of seeds by the number of flowerbeds.  Total seeds = 32   Number of flowerbeds = 8    
+X0064 | Now that we know the book has 392 pages and Frank reads 14 pages per day, we can calculate the number of days it took him to finish the book.  Number of days = Total pages / Pages read per day  Number of days = 392 / 14 
+X0095 | 題目中的資訊是： - 一台機器昨天做了 9 件襯衫，今天做了 44 件。 - 它每分鐘可以做 3 件。  如果它今天做了 44 件，且每分鐘做 3 件，那麼它今天工作的分鐘數就是 44 ÷ 3 = 14.67 分鐘（因為它做了 44 件襯衫，而不是 45 件）。  如果它今天工作了 14.67 分鐘，那麼昨天它工作的分鐘數就是 9 ÷ 3 = 3 分鐘。  所以，這台機器昨天工作了 3 分鐘。
+X0106 | 阿當比小潔多 $10 - 2 = 8$ 顆蘋果。所以答案是 8。
+X0107 | The total number of pages in the book is 93. The first chapter has 60 pages. To find the number of pages in the second chapter, we subtract the number of pages in the first chapter from the total number of pages in the b
+X0108 | 阿當比小潔多 $10 - 2 = 8$ 顆蘋果。因此，答案是 8。
+X0109 | 阿當比小潔多 8 顆蘋果。我計算的方式是：10 顆蘋果（阿當的）減去 2 顆蘋果（小潔的）等於 8 顆蘋果。因此，最終答案是 8。
+X0111 | The problem asks for the difference in the number of apples between Adam and Jackie. Adam has 10 apples and Jackie has 2 apples. We can calculate the difference by subtracting the number of apples Jackie has from the num
+X0112 | The problem is asking for the difference in the number of apples between Adam and Jackie. To solve this, we subtract the number of apples Jackie has from the number of apples Adam has.  Adam has 10 apples and Jackie has 
+X0137 | Now that we know Matthew had 36 crackers and he gave them equally to his 18 friends, we can calculate the number of crackers each person ate by dividing the total number of crackers by the number of friends.  $$ \text{Cr
+X0157 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  Weekly earnings = Total earnings / Number of weeks Weekly 
+X0188 | Now that we know the book had 392 pages and Frank reads 14 pages per day, we can calculate the number of days it took him to finish the book.  To find the number of days, we divide the total number of pages by the number
+X0192 | Now that we know there are 4 pieces of gum in each package, we can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4
+X0209 | Now that I know there are 4 pieces of gum in each package, I can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4  
+X0251 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  $$ \text{Weekly earnings} = \frac{\text{Total earnings}}
+X0269 | 我目前沒有足夠的資訊來解答這道題目，因為我不知道最初有多少個朋友在玩電動。我需要這方面的資訊才能計算總共有多少人。
+X0309 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  $$ \text{Weekly earnings} = \frac{\$133}{19 \text{ weeks}}
+X0322 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  $$ \text{Weekly earnings} = \frac{\$133}{19 \text{ weeks}}
+X0324 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。所以阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  提交最終答案：8。
+X0329 | 我需要知道這本書總共有多少頁才能計算小明花了幾天讀完。
+X0336 | 我沒有足夠的資訊來解答這個問題，因為我不知道小丹現在有幾個瓶蓋。我需要知道這個資訊才能計算他原本有多少個瓶蓋。
+X0365 | Now that we know there are 4 pieces of gum in each package, we can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4
+X0391 | Now that we know Matthew had 36 crackers and he gave them equally to his 18 friends, we can calculate how many crackers each person ate.  To find the number of crackers each person ate, we divide the total number of crac
+X0409 | Now that we know there were 8 flowerbeds, we can calculate how many seeds were planted in each flowerbed by dividing the total number of seeds by the number of flowerbeds.  Total seeds = 32   Number of flowerbeds = 8    
+X0416 | Now that we know there were 8 flowerbeds, we can calculate how many seeds were planted in each flowerbed by dividing the total number of seeds (32) by the number of flowerbeds (8).  $$ \text{Seeds per flowerbed} = \frac{
+X0439 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  $$ \text{Weekly earnings} = \frac{\$133}{19 \text{ weeks}}
+X0462 | Now that I know there are 4 pieces of gum in each package, I can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4  
+X0484 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  $$ \text{Weekly earnings} = \frac{\$133}{19 \text{ weeks}}
+X0524 | Now that we know the book had 392 pages and Frank reads 14 pages per day, we can calculate the number of days it took him to finish the book.   $$ \text{Days} = \frac{\text{Total Pages}}{\text{Pages per Day}} = \frac{392
+X0530 | 我沒有足夠的資訊來計算總共有多少袋餅乾。我需要知道總共有多少片餅乾。
+X0561 | Now that we know Matthew had 36 crackers and he gave equal numbers to his 18 friends, we can calculate how many crackers each person ate.   To find the number of crackers each person ate, we divide the total number of cr
+X0565 | With the information that Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  $$ \text{Weekly earnings} = \frac{\text{Total e
+X0578 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  $$ \text{Weekly earnings} = \frac{\text{Total earnings}}{\
+X0584 | 我目前沒有足夠的資訊來計算現在山邊住著多少個鳥家族。我需要知道原本有多少個鳥家族。
+X0586 | 我需要知道這本書總共有多少頁才能計算出小明需要多少天讀完。
+X0616 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。因此，阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  提交答案：8
+X0617 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  Let's perform the calculation:  $$ \text{Weekly earnings} 
+X0621 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  $$ \text{Weekly earnings} = \frac{\$133}{19 \text{ weeks
+X0623 | Now that we know there were 8 flowerbeds, we can calculate the number of seeds planted in each flowerbed by dividing the total number of seeds by the number of flowerbeds.  Total seeds = 32   Number of flowerbeds = 8    
+X0660 | 我需要知道小芳總共有多少顆彈珠，才能計算出她把彈珠分給了幾個男生。
+X0716 | Now that we know the book has 392 pages and Frank reads 14 pages per day, we can calculate the number of days it took him to finish the book.  $$ \text{Number of days} = \frac{\text{Total pages}}{\text{Pages per day}} = 
+X0720 | 昨天機器做了 9 件襯衫，而每分鐘可以做 3 件。因此，昨天工作了 $ \frac{9}{3} = 3 $ 分鐘。  提交答案：3 分鐘。
+X0721 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  $$ \text{Weekly earnings} = \frac{\text{Total earnings}}{\
+X0731 | Now that I know the book has 392 pages and Frank reads 14 pages per day, I can calculate the number of days it took him to finish the book.  The calculation is: $ \frac{392}{14} $. Let me perform the division to find the
+X0737 | Now that we know there were 8 flowerbeds and they planted 32 seeds altogether, we can calculate how many seeds were planted in each flowerbed by dividing the total number of seeds by the number of flowerbeds.  $$ \text{S
+X0774 | Now that we know the book had 392 pages and Frank read 14 pages per day, we can calculate the number of days it took him to finish the book by dividing the total number of pages by the number of pages he read per day.  $
+X0793 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。因此，阿當比小潔多 $10 - 2 = 8$ 顆蘋果。   submit_answer {"name": "submit_answer", "arguments": {"answer": "8"}}
+X0802 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  Weekly earnings = Total earnings / Number of weeks Weekly 
+X0809 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total amount by the number of weeks.  The calculation is:  $$ \text{Weekly earnings} = \frac{133
+X0857 | Now that we know the book has 392 pages and Frank reads 14 pages per day, we can calculate the number of days it took him to finish the book.  Number of days = Total pages / Pages read per day = 392 / 14  Let me calculat
+X0875 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  因此，最終答案是：8。
+X0881 | Now that I know there are 4 pieces of gum in each package, I can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4  

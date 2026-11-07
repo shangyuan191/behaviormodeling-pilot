@@ -1,0 +1,150 @@
+X0000 | {"name": "ask_teacher", "parameters": {"question": "阿哲把餅乾平分給他的 18 個朋友。每個人吃了幾片餅乾？」}}
+X0001 | {"name": "ask_teacher", "parameters": {"question": "小芳班上有一些男生喜歡玩彈珠，\u5b50\u662f\u5206\u4e60\u6709 28\u980a\u5f69\u4f4d\u3002\u5b50\u662f\u4e3a\u51f0\u4e00\u6761\u597d\u5916\u3001\u969e\u516b\u3001\u4e01\u9ad4\u3001\u6d88\u5185\u4e00\u6761\u9ad4\u3001\u66ff\u67
+X0002 | {"name": "ask_teacher", "parameters": {"question": "小菲把一些鉛筆平均排成 3 排。每一排有幾枝鉛筆？」}}
+X0003 | {"name": "ask_teacher", "parameters": {"question": "Small \\u3000given \\u30001}}
+X0004 | {"name": "ask_teacher", "parameters": {"question": "Public transportation 41" + "\u79c1\u5371\u3001\u5403\u5c45\u3001\u5e73\u5f69\u65b9\u7b2c"}}
+X0005 | {"name": "ask_teacher", "parameters": {"question": "一群朋友在玩電動，後來又來了 3 個朋友。現在一共有幾個人？」}}
+X0006 | {"name": "ask_teacher", "parameters": {"question": "小菲把 12 枝鉛筆平均排成 3 排。每一排有幾枝鉛筆？」}}
+X0007 | {"name": "ask_teacher", "parameters": {"question": " \u60ac\u60ac\u60ac 28 \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300
+X0008 | The problem does not provide enough information to determine the number of bags Tiffany had on Monday. We only know that she had some bags on Monday and found 4 more bags the next day. Without knowing the total number of bags she had after finding the addition
+X0009 | 問題中缺乏足夠的資訊來解答。我需要知道小菲總共有多少枝鉛筆才能計算每一排有幾枝。我會向老師詢問更多細節。
+X0010 | The problem as stated does not provide the initial number of bird families living near the mountain. To solve this, we need the original number of bird families. Let me ask my teacher for clarification.
+X0011 | The problem as stated does not provide enough information to determine how many apples Jackie has. We know that Adam has 3 more apples than Jackie, but we do not know the exact number of apples Adam has. If you can provide the number of apples Adam has, I can 
+X0012 | The problem does not provide enough information to determine how many bags Tiffany had on Monday. We only know that she had some bags on Monday and found 4 more bags the next day. To find the number of bags she had on Monday, additional information would be re
+X0013 | 問題中沒有提供足夠的信息来确定小潔有多少颗苹果。我需要更多信息才能解答这个问题。
+X0014 | The problem as stated does not provide enough information to determine how many blocks are left. We need to know the initial number of blocks Randy had before building the tower. Please provide this information or clarify the question.
+X0015 | 問題缺少必要的信息，无法解答。我需要知道小潔有多少颗苹果。
+X0016 | Now that we know Olivia has 33 dollars left after spending 78 dollars, we can calculate how much money she had at first by adding the amount she spent to the amount she has left.  $$ \text{Initial amount} = \text{Amount spent} + \text{Amount left} $$ $$ \text{
+X0017 | The problem does not provide the total number of cookies you have, so it's impossible to determine how many bags of cookies you have. I need more information to solve this problem.   I will ask my teacher for clarification.
+X0018 | 問題不夠清楚，請提供更多資訊或明確的條件，例如總共有多少片餅乾。
+X0019 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  Weekly earnings = Total earnings / Number of weeks Weekly earnings = $133 / 19 weeks  Let me per
+X0020 | 問題中沒有提供具體的人數，因此無法計算總命數。我需要更多資料。
+X0021 | 問題中沒有提供小潔擁有蘋果的數量，因此無法計算阿當比小潔多幾顆蘋果。我需要更多的資訊才能解答這道題目。
+X0022 | The problem does not provide enough information to determine the number of pages in the second chapter. I will ask the teacher for clarification.
+X0023 | The problem as stated does not provide the total number of pencils. Please provide the total number of pencils so that I can determine how many pencils were placed in each row.
+X0024 | 我需要更多的信息才能解答这个问题。例如，最初有多少个朋友在玩电動。请提供这个信息。
+X0025 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。因此，阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  提交最終答案：8。
+X0026 | The problem does not provide enough information to determine the number of apples Jackie has. We know that Adam has 3 more apples than Jackie, but we do not know how many apples Adam has. Therefore, we cannot find the exact number of apples Jackie has.  I will
+X0027 | Now that we know Lewis worked for 19 weeks and earned a total of $133, we can calculate his weekly earnings by dividing the total earnings by the number of weeks.  $$ \text{Weekly earnings} = \frac{\text{Total earnings}}{\text{Number of weeks}} = \frac{133}{19
+X0028 | The problem does not provide enough information to determine the number of chairs at each table. Please provide additional details.
+X0029 | 問題不夠明確，請提供更多資訊，例如總共有多少片餅乾。
+X0030 | The problem as stated does not provide enough information to determine the number of children who were on the bus before the stop. We need to know the total number of children on the bus after the stop to calculate the original number.  To resolve this, I will
+X0031 | 問題中缺少必要的資訊，例如總共有多少片餅乾。我需要知道總數才能計算每個人吃了幾片餅乾。我將向老師請教。
+X0032 | 問題中缺少關鍵資訊，例如小芳總共有多少顆彈珠，或者有多少個男生。我需要更多資料才能解答這道題目。
+X0033 | The problem is missing some information, such as the initial number of friends playing video games. Without this, we cannot determine the total number of people. I will ask the teacher for clarification.
+X0034 | 問題中缺少了餅乾總共有多少片的資訊，因此我需要向老師確認。
+X0035 | Now that we know there are 4 pieces in each package of gum, we can calculate the total number of pieces of gum Robin has.  Total pieces of gum = Number of packages of gum × Pieces per package Total pieces of gum = 28 × 4  Let's perform the calculation and subm
+X0036 | 我需要更多信息才能解决这个问题。请问最初有多少个朋友在玩电動？
+X0037 | The problem as stated does not provide enough information to determine the number of pencils in each row. Please provide the total number of pencils.
+X0038 | The problem as stated does not provide the initial number of friends playing video games. To determine the total number of people, we need to know how many friends were there initially.   I will ask the teacher for the initial number of friends.
+X0039 | The problem is incomplete as it does not specify the total number of cookies you have. Please provide the total number of cookies so that I can determine how many bags you have.
+X0040 | The problem as stated does not provide enough information to determine how many apples Jackie has. Please provide additional details.
+X0041 | The problem as stated does not provide enough information to determine how much money Olivia had at first. Please provide additional details or clarify the question.
+X0042 | The problem does not provide enough information to determine the number of chairs at each table. I will ask the teacher for clarification.
+X0043 | The problem is incomplete as it does not provide the total number of blocks Randy had initially. To determine how many blocks are left, we need to know the original quantity of blocks. Please provide the total number of blocks Randy had.
+X0044 | 問題缺少必要的資訊，例如你總共有多少片餅乾。我需要這些資訊才能計算總共有多少袋餅乾。我將向老師詢問更多細節。
+X0045 | 我需要知道昨天這台機器一共做了多少件襯衫，才能計算它工作了多久。因此，我需要向老師詢問昨天這台機器一共做了多少件襯衫。
+X0046 | Now that I know each ticket costs $44, I can calculate the total cost for 7 tickets.   Total cost = Number of tickets × Cost per ticket Total cost = 7 × $44  Let me compute the total cost.
+X0047 | 問題中缺少必要的信息，例如原本山邊住著多少個鳥家族。我需要更多資料才能解答這道題目。
+X0048 | 問題缺少必要的資訊，例如總共有多少枝鉛筆。我需要這些資料才能計算每一排有幾枝鉛筆。我會向老師請教以取得更多細節。
+X0049 | The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. We need to know either the total number of marbles given or the number of marbles each boy received. Please provide more details.
+X0050 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We need to know either the total number of marbles given out or the number of marbles each boy received.   I will ask the teacher for clarification.
+X0051 | 問題不完整，缺少必要的數據。我需要知道總共有多少片餅乾才能計算出袋數。请提供更多信息。
+X0052 | The problem as stated does not provide enough information to determine the number of bags. Please provide the total number of cookies you have.
+X0053 | The problem does not provide the initial number of blocks Randy had. To determine how many blocks are left, we need to know the starting amount. Please provide the initial number of blocks Randy had.
+X0054 | 阿當有 10 顆蘋果，小潔有 2 顆蘋果。因此，阿當比小潔多 $10 - 2 = 8$ 顆蘋果。  提交答案：8。
+X0055 | 問題中沒有提供麵包師傅最初有多少個蛋糕的資訊，因此無法計算還剩幾個蛋糕。我需要問老師這部分的資訊。
+X0056 | The problem does not provide the number of pieces of gum per package, so it is not possible to determine the total number of pieces of gum Robin has. I will ask the teacher for clarification.
+X0057 | The problem does not provide enough information to determine the number of chairs for each table. Please provide more details or clarify the problem.
+X0058 | The problem is incomplete as it does not provide the total number of pencils. Please provide the total number of pencils so that I can solve the problem.
+X0059 | 問題中缺少必要的信息，无法确定小潔有幾顆蘋果。请提供更多细节或数据。
+X0060 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We know she gave 2 marbles to each boy, but we do not know the total number of marbles given out or the number of boys. Please provide more information 
+X0061 | Now that we know there were 8 flowerbeds, we can calculate the number of seeds planted in each flowerbed by dividing the total number of seeds by the number of flowerbeds.  Total seeds = 32   Number of flowerbeds = 8    Seeds per flowerbed = Total seeds ÷ Numb
+X0062 | 問題中沒有提供具體的「一群朋友」的人數，因此無法計算總命數。我需要知道朋友的數量才能得出答案。我會向老師詢問更多細節。
+X0063 | The problem is incomplete as it does not specify the number of friends. To determine the total number of lives, we need to know how many players were in the group. I will ask the teacher for clarification.
+X0064 | Now that we know the book has 392 pages and Frank reads 14 pages per day, we can calculate the number of days it took him to finish the book.  Number of days = Total pages / Pages read per day  Number of days = 392 / 14  Let's calculate this.
+X0065 | {"name": "ask_teacher", "parameters": {"question": "4 個朋友在玩電動，後來又來了 3 個朋友。現在一共有幾個人？」}}
+X0066 | {"name": "ask_teacher", "parameters": {"question": "12ост支に卻还級最初"}
+X0067 | {"name": "ask_teacher", "parameters": {"question": "2張桌子,共12張椅子,每桌椅子數相同,求每桌椅子數"}
+X0068 | {"name": "ask_teacher", "parameters": {"question": "如果星期二有 8 袋，第二天找到 4 袋，那么星期一有幾袋？」}}
+X0069 | {"name": "ask_teacher", "parameters": {"question": "一台机昨日做了条然今天做了44条。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300
+X0070 | {"name": "ask_teacher", "parameters": {"question": "28 \u53c2\u4f53\u4e86 2\u53c2\u5b50\u5929\u4e86 \u60f3\u4e86\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u30
+X0071 | {"name": "ask_teacher", "parameters": {"question": "小芳原本有 28 顆彈珠，每個男生收到 2 顆彈珠，請求老師告訴我有多少個男生"}
+X0072 | {"name": "ask_teacher", "parameters": {"question": "32分 8等如何目前的"))
+X0073 | {"name": "ask_teacher", "parameters": {"question": "一台機器昨天做了 9 件襯衫，今天做了 44 件。它每分鐘可以做 3 件。\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3
+X0074 | {"name": "ask_teacher", "parameters": {"question": "你學過加法和減法，還沒有學過乘法和除法。題目沒有涉及到乘法和除法，只是學過的加法和減法。可以先做加法或減法驗算看看"}
+X0075 | {"name": "ask_teacher", "parameters": {"question": "一本書有 2 章，第一章有 60 頁，整本書有 93 頁。第二章有幾頁？如果再問不知道答案，請告訴老師"一本書總共有 2 章，每章分別有若干個頁數，第一章有 60 頁，整本書有 93 頁，求第二章的頁數"，並將題目分為加法和減法來解答"}}
+X0076 | {"name": "ask_teacher", "parameters": {"question": "一台機器今天做了 44 件襯衫，今天它每分鐘可以做 3 件襯衫。這台機器 44\9 做襯衫所需的分鐘數？"}}
+X0077 | "解題需要的資訊都在題目裡，請再仔細讀一次。"
+X0078 | {"name": "ask_teacher", "parameters": {"question": "36 \u56ed\u6c49\u53e3\u6027\u6216\u53f3\u53f3\u4f1a\u6211\u7684\u5165\u53f3\u5929 18\u4e2a\u624b\u673a\u53e3\u6027\u6216\u53f3\u53f3\u4f1a\u6210\u53f3\u6027\u53e3\u6027\u6210\u53f3\u6210\u53f3\u6210\u53f3\u62
+X0079 | 答：題目已經很明了，實際上這問題不需要向老師問，而且題目裡已經提到了答案。  "阿宏用了 36 塊蓋一座塔，還剩下 59 - 36 = 23 塊積木。"
+X0080 | {"name": "ask_teacher", "parameters": {"question": "12 \u53f0\u5f6f\u4f7\u4e86 3 \u6d41\u5173\uff0c\u5408\u9002\u4e00\u89c1\u4e86\u98ef\u5f6f\u4f7\u7684\u8ba4\u5e38\u306f\u4e50\u98ef\u5f6f\u4f7\u3002"}}
+X0081 | {"name": "ask_teacher", "parameters": {"question": "小莉在超市花了 78 元，還剩下 33 元，若她原來有 money 元，則 money - 78 = 33\. 介意告訴我答案嗎？"}}
+X0082 | {"name": "ask_teacher", "parameters": {"question": "I don\\" "","+str(28)+"\\" "","2"}}
+X0083 | {"name": "skip", "parameters": {"reason": "阿哲原本有 36 片餅乾，沒有足夠給每人分得平"}
+X0084 | {"name": "ask_teacher", "parameters": {"question": "餅乾總共被分成了幾片？」}}
+X0085 | Since we haven't learned multiplication or division yet, we can only use addition and subtraction to solve the problem. However, the problem requires us to divide the number of chairs by the number of tables. Since we can't divide, we can't answer the question
+X0086 | {"name": "skip", "parameters": {"reason": "I don"});    Unexpected error with the provided function names and parameters: Unexpected error with the provided function names and parameters. Ask the teacher for an equation to solve or hint for the solution
+X0087 | {"name": "ask_teacher", "parameters": {"question": "33 \u3000\u5247\u3000\u7bc0\u72f5\u6a0a\uff0c\u548c\u3000\u66f4\u5929\u5bb6\u884c\u7231 11 \u3000\u5247\u3000\u4e0d\u3000\u3001\u8ba3\u7b97\u3000\u3001\u3000\u3001\u3000\u3001\u3000\u3001\u3000\u3001\u3000\u3
+X0088 | {"name": "ask_teacher", "parameters": {"question": "一台機器昨天做了 9 件襯衫，今天做了 44 件。它每分鐘可以做 3 件。\u3002\uff0c\u3002\u3002\u3001\u3001\u3002\u3001\u3002\u3001\u3002\u3001\u3002\u3002\u3002\u3002\u3001\u3002\u3002\u3002\u3002\u3002\u3001\u3002\u3001\u3002\u3001\u3002\u3
+X0089 | {"name": "ask_teacher", "parameters": {"question": "阿宏一開始有 59 塊積木，對嗎？他用了 36 塊蓋一座塔，對嗎？所以他還剩下 59 - 36 = \u3000\u3000\u3000\u3000\u3000？？？」}}
+X0090 | {"name": "ask_teacher", "parameters": {"question": "山邊住著 87 個鳥家族，後來又搬來 18 個鳥家族。現在山邊住著幾個鳥家族？」}}
+X0091 | {"name": "ask_teacher", "parameters": {"question": "4 顆代表多少個？」}}
+X0092 | {"name": "ask_teacher", "parameters": {"question": "12 \u53d6\u4f55\u4e2d\u54c1\u66f4\u505a 3 \u76ee\u5206\u3002\u5408\u4e00\u76ee\u5206\u4e2d\u3001\u5e2e\u4e2d\u4f4d\u53f0\u3001\u76ee\u5206\u5417\u3001\u3001\u76ee\u5206\u4f55\u4e00\u7684\u4e2d\u4e00\u8acb\u30
+X0093 | {"name": "ask_teacher", "parameters": {"question": "阿哲把餅乾平分給他的 18 個朋友，他原本有 36 片餅乾，請問每人會得到 2 片餅乾？為什麼？」}}
+X0094 | {"name": "ask_teacher", "parameters": {"question": "12 \u5c0f\u767d\u914d\u7a7a 3 \u90ae\u767d\u3002\u4eca1\u4e00\u90ae\u6709\u4e8c\u4e09\u767d\u767d\u914d\u7a7a\u3001\u4e48\u4e09\u767d\u767d\u914d\u7a7a\u3001\u4e09\u4e0a\u767d\u767d\u914d\u7a7a\u3001\u4e0a\u4
+X0095 | 題目中的資訊是： - 一台機器昨天做了 9 件襯衫，今天做了 44 件。 - 它每分鐘可以做 3 件。  如果它今天做了 44 件，且每分鐘做 3 件，那麼它今天工作的分鐘數就是 44 ÷ 3 = 14.67 分鐘（因為它做了 44 件襯衫，而不是 45 件）。  如果它今天工作了 14.67 分鐘，那麼昨天它工作的分鐘數就是 9 ÷ 3 = 3 分鐘。  所以，這台機器昨天工作了 3 分鐘。
+X0096 | {"name": "ask_teacher", "parameters": {"question": "What does the problem mean by "Then there were 41 children on the bus."?"}}
+X0097 | {"name": "ask_teacher", "parameters": {"question": "小華有 28 包口香糖，每包有 4 顆，還有 13 包糖果，每包有 4 顆，總共有幾顆"?
+X0098 | {"name": "ask_teacher", "parameters": {"question": "我想知道題目"How many bags of cookies do you have?"，可以改進一些嗎？"}}
+X0099 | {"name": "ask_teacher", "parameters": {"question": "12""̲3=?"}}
+X0100 | {"name": "skip", "parameters": {"reason": "題目沒有明確提到需要使用乘法和除法，")
+X0101 | {"name": "ask_teacher", "parameters": {"question": "請再次詢問問題\t",}}
+X0102 | {"name": "ask_teacher", "parameters": {"question": "你想要我求什麼？」}}
+X0103 | {"name": "ask_teacher", "parameters": {"question": "28 \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\
+X0104 | {"name": "ask_teacher", "parameters": {"question": "麵包師傅做了 169 個蛋糕，他的朋友買走了 137 個。麵包師傅還剩幾個蛋糕？」}}
+X0105 | {"name": "ask_teacher", "parameters": {"question": "8 個朋友，一共有多少條命？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+X0106 | 阿當比小潔多 $10 - 2 = 8$ 顆蘋果。所以答案是 8。
+X0107 | The total number of pages in the book is 93. The first chapter has 60 pages. To find the number of pages in the second chapter, we subtract the number of pages in the first chapter from the total number of pages in the book.  So, the number of pages in the sec
+X0108 | 阿當比小潔多 $10 - 2 = 8$ 顆蘋果。因此，答案是 8。
+X0109 | 阿當比小潔多 8 顆蘋果。我計算的方式是：10 顆蘋果（阿當的）減去 2 顆蘋果（小潔的）等於 8 顆蘋果。因此，最終答案是 8。
+X0110 | The machine made 9 shirts yesterday. If it can make 3 shirts a minute, then the number of minutes it worked yesterday is 9 divided by 3. I need to calculate that.
+X0111 | The problem asks for the difference in the number of apples between Adam and Jackie. Adam has 10 apples and Jackie has 2 apples. We can calculate the difference by subtracting the number of apples Jackie has from the number of apples Adam has.  Let's perform t
+X0112 | The problem is asking for the difference in the number of apples between Adam and Jackie. To solve this, we subtract the number of apples Jackie has from the number of apples Adam has.  Adam has 10 apples and Jackie has 2 apples. So, we calculate:  $$ 10 - 2 =
+X0113 | {"name": "ask_teacher", "parameters": {"question": "小芳給每個男生 2 顆彈珠，她把彈珠分給了幾個男生？」}}
+X0114 | {"name": "ask_teacher", "parameters": {"question": "阿宏用了 36 塊積木蓋一座塔，還剩下幾塊積木？」}}
+X0115 | {"name": "ask_teacher", "parameters": {"question": "公車上有一些小朋友。到站時又上來 2 個小朋友。到站前公車上有幾個小朋友？」}}
+X0116 | {"name": "ask_teacher", "parameters": {"question": "山邊住著一些鳥家族，後來又搬來 18 個鳥家族。現在山邊住著幾個鳥家族？」}}
+X0117 | {"name": "ask_teacher", "parameters": {"question": "阿宏用了 36 塊積木蓋一座塔。還剩下幾塊積木？」}}
+X0118 | 我需要更多信息才能解答這道題目。請問原本有多少個朋友在玩電動？
+X0119 | 問題中缺少了小潔有幾顆蘋果的資訊，我需要更多的資料才能解答這道題目。我會問老師這一點。
+X0120 | 小華有 28 包口香糖，但題目中沒有提供每包口香糖的數量，因此無法計算總共有多少顆口香糖。我需要更多的信息才能回答這個問題。
+X0121 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. Additional details such as the number of weeks or the rate of earnings per week would be necessary to solve this problem.   I will skip this problem fo
+X0122 | The problem as stated does not provide the number of apples Jackie has, so it's not possible to determine how many more apples Adam has than Jackie. I will skip this problem for now.
+X0123 | 問題不完整，缺少初始人數的資訊。我需要更多的資料才能解答這道題目。
+X0124 | 題目中沒有提供具體的人數，因此無法計算總共有多少條命。我需要知道有多少位朋友才能進行計算。我會將問題傳送給老師以獲得更多資訊。
+X0125 | The problem is incomplete as it does not provide the initial number of friends playing video games. I need more information to solve this problem.
+X0126 | 問題中缺少了小潔擁有蘋果的數量，因此無法計算阿當比小潔多幾顆蘋果。我需要問老師小潔擁有多少蘋果。
+X0127 | 我需要更多資訊才能解答這道題目。例如，總共有多少塊積木？
+X0128 | 我無法回答這個問題，因為缺少必要的資訊。小莉原本有多少钱與她花掉的78元之間的關係（例如她花了原本錢的一半，或者她剩下多少钱等）未被提供。我需要更多信息才能解答这个问题。
+X0129 | The problem is incomplete. I need more information to determine the number of bags. Please provide the total number of cookies.
+X0130 | The problem as stated does not provide enough information to determine the number of pencils placed in each row. We need the total number of pencils to solve the problem.
+X0131 | I don't have enough information to solve this problem. I need to know how many cookies I have in total. Could you please provide that information?
+X0132 | 題目中沒有提供小潔擁有蘋果的數量，因此我需要更多資料才能回答這道題目。我會向老師詢問更多細節。
+X0133 | The problem does not provide information about how many apples Jackie has. To solve this, we need to know the number of apples Jackie has. Let me ask the teacher for clarification.
+X0134 | The problem does not provide enough information to determine how much money Olivia had initially. I need more details to solve this problem.
+X0135 | The problem does not provide enough information to determine the number of pencils in each row. Please provide the total number of pencils.
+X0136 | 我需要更多的信息才能解答這個問題。請問每排有幾枝鉛筆？
+X0137 | Now that we know Matthew had 36 crackers and he gave them equally to his 18 friends, we can calculate the number of crackers each person ate by dividing the total number of crackers by the number of friends.  $$ \text{Crackers per person} = \frac{36}{18} $$  L
+X0138 | 我需要更多資料才能解答這道題目。例如，昨天這台機器一共做了多少件襯衫。
+X0139 | 我需要更多的信息来解决这个问题，例如阿凱每週赚的钱数或者工作周数。如果没有这些信息，我无法计算出答案。
+X0140 | The problem as stated does not provide the total number of pages in the book, so it is not possible to determine how many days Frank took to finish the book. I need more information to solve this problem.   I will ask my teacher for clarification.
+X0141 | 跳過這一題。
+X0142 | 題目中缺少了小丹原本擁有瓶蓋的數量，因此無法計算出答案。我需要更多信息才能解決這道題目。
+X0143 | 我不知道如何計算昨天的工作時間。我需要老師的幫助。
+X0144 | The problem does not provide enough information to determine the number of pages in the second chapter. Therefore, I will skip this problem.
+X0145 | 我需要更多資訊來解決這個問題。請問你有多少片餅乾？
+X0146 | The problem as stated doesn't provide enough information to determine how many boys Haley gave marbles to. We need to know the total number of marbles given out or another piece of information that can help us calculate the number of boys.   I will ask the tea
+X0147 | The problem does not provide the total number of pages in the book, so it is impossible to determine how many days Frank took to finish the book. I will skip this problem.
+X0148 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. We need to know the number of weeks over which the total earnings of $133 were accumulated.   I will ask the teacher for clarification on the number of
+X0149 | The problem does not provide enough information to determine the number of chairs at each table. I need more details to solve this.

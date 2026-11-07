@@ -1,0 +1,103 @@
+model,help_tool,key,lang,level,code,hit,human_code,text
+Qwen3-8B-FP8-nothink,ask_teacher,N2|A07|missing|zh|1,zh,neutral,request_info,请告诉,,我需要更多信息来解答这个问题。请告诉我阿当有多少颗苹果。
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-1|A12|missing|zh|1,zh,0,request_info,？,,我需要更多的資訊才能解答這道題目。例如，原本有多少個朋友在玩電動？
+Qwen3-8B-FP8-nothink,ask_teacher,L-TAC-3|M06|missing|zh|0,zh,TAC,request_info,？,,我需要更多的信息来解答这个问题，比如你知道总共有多少片饼干吗？
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-1|A01|missing|zh|2,zh,0,intent,向老師,,問題中沒有提供小潔有多少顆蘋果，因此我需要更多資訊才能解答。我會向老師請教。
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-1|A10|missing|zh|2,zh,0,intent,問老師,,我需要知道麵包師傅原本有幾個蛋糕，才能計算出還剩幾個。我會問老師。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TA-2|A01|missing|zh|2,zh,TA,intent,向老師,,問題中缺少必要的資訊，無法計算出阿當比小潔多幾顆蘋果。我需要知道小潔有幾顆蘋果才能進行計算。因此，我會向老師詢問更多細節。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-1|A08|missing|zh|1,zh,TACT,state_missing,不知道,,我不知道目前山邊原本有多少個鳥家族，因此無法計算現在總共有多少個鳥家族。我需要更多資訊才能解答這道題目。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TAC-1|A06|missing|zh|2,zh,TAC,state_missing,無法,,我目前無法解答這道題目，因為缺少必要的資訊。我需要知道小丹弄丟瓶蓋後剩下幾個瓶蓋，才能計算他原本有多少個瓶蓋。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-1|A01|missing|zh|2,zh,TACT,state_missing,不夠,,問題不夠完整，無法得出答案。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-1|A02|missing|en|0,en,TACT,skip,skip,,"The problem does not provide enough information to determine the number of children on the bus before the stop. The only information given is that 2 more children got on at the bus stop, but we don't know the total number of children on the bus after the stop. Therefore, it's not possible to determine the number of children on the bus before the stop. I will skip this problem."
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-3|M11|missing|en|2,en,TACT,skip,skip,,"The problem does not provide the number of friends, so it is not possible to determine the total number of lives. I will skip this problem."
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-2|A04|missing|en|1,en,TACT,skip,skip,,"The problem does not provide enough information to determine how much money Olivia had initially. Therefore, I will skip this problem."
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-2|A07|missing|en|2,en,0,state_missing,does not provide,,The problem does not provide enough information to determine how many apples Jackie has. I need more details.
+Qwen3-8B-FP8-nothink,ask_teacher,L-TAC-2|M04|missing|en|1,en,TAC,state_missing,does not provide,,"The problem does not provide the number of flowerbeds, so I cannot determine how many seeds were planted in each flowerbed. I need more information to solve this problem."
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-1|A11|missing|en|1,en,TACT,state_missing,missing,,"The problem is missing information. I need to know how many books Paul originally had. Without that, I can't determine how many he has left."
+Qwen3-8B-FP8-nothink,ask_teacher,N3|M04|missing|en|1,en,neutral,request_info,could you,,"The problem as stated does not provide the number of flowerbeds. To find the number of seeds planted in each flowerbed, we would need to know how many flowerbeds there were. Could you please provide that information?"
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-1|A05|missing|en|2,en,0,request_info,could you,,The problem as stated does not provide enough information to determine how many blocks are left. I need to know the initial number of blocks Randy had before building the tower. Could you please provide that information?
+Qwen3-8B-FP8-nothink,ask_teacher,L-T-2|M05|missing|en|1,en,T,request_info,please provide,,The problem as stated does not provide the total number of pencils. Please provide the total number of pencils so I can determine how many were placed in each row.
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-1|M11|missing|en|1,en,0,intent,ask the teacher,,I don't know how many friends were playing the video game. Can I ask the teacher for clarification?
+Qwen3-8B-FP8-nothink,ask_teacher,L-T-1|M07|missing|en|0,en,T,intent,ask the teacher,,"The problem does not provide the number of pieces per package for the gum or candy. To solve this, we would need additional information about how many pieces are in each package of gum. 
+
+I will ask the teacher for clarification."
+Qwen3-8B-FP8-nothink,ask_teacher,L-0-2|M11|missing|en|1,en,0,intent,ask the teacher,,"The problem as stated does not provide the number of players in the group. Without this information, it is not possible to determine the total number of lives. I will ask the teacher for clarification."
+Qwen3-8B-FP8-nothink,ask_teacher,L-TACT-2|A03|missing|zh|2,zh,TACT,skip,跳過,,題目中沒有提供足夠的信息來計算星期一小婷有多少袋鋁罐。因此，我會跳過這題。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TAC-3|A06|missing|zh|1,zh,TAC,skip,跳過,,跳過這一題。
+Qwen3-8B-FP8-nothink,ask_teacher,L-TAC-2|A07|missing|zh|0,zh,TAC,skip,跳過,,跳過這一題。
+Qwen3-8B-FP8-nothink,ask_for_help,N3|A04|missing|zh|1,zh,neutral,request_info,请提供,,我需要更多信息才能解答這題。小莉原本有多少钱与她花了78元之间没有直接的数学关系，除非我们知道她花了多少钱后还剩下多少钱。请提供更多信息。
+Qwen3-8B-FP8-nothink,ask_for_help,L-TACT-3|A08|missing|zh|1,zh,TACT,request_info,？,,我需要更多的信息来解答这个问题。例如，原来山边住着多少个鸟家族？
+Qwen3-8B-FP8-nothink,ask_for_help,L-TAC-3|A08|missing|zh|2,zh,TAC,request_info,請告訴,,我需要更多信息才能解答這道題目。目前不知道山邊原本住著多少個鳥家族。請告訴我原本的數量。
+Qwen3-8B-FP8-nothink,ask_for_help,L0|A11|missing|zh|2,zh,L0,state_missing,需要更多,,問題中缺乏必要的資訊，例如阿保原本有幾本書。我需要更多的資訊才能解答這題。
+Qwen3-8B-FP8-nothink,ask_for_help,N1|M07|missing|zh|1,zh,neutral,state_missing,沒有提供,,題目中沒有提供每包口香糖的數量，因此無法計算小華有幾顆口香糖。我需要更多的資訊才能解答這道題目。
+Qwen3-8B-FP8-nothink,ask_for_help,L-TACT-1|M06|missing|zh|0,zh,TACT,state_missing,沒有提供,,題目中沒有提供總共有多少片餅乾，因此無法計算總共有幾袋餅乾。我需要更多資訊才能解答這道題目。
+Qwen3-8B-FP8-nothink,ask_for_help,L0|M04|missing|en|0,en,L0,request_info,please provide,,The problem as stated does not provide enough information to determine the number of flowerbeds or the number of seeds planted in each flowerbed. Please provide additional details or clarify the question.
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-2|M03|missing|en|1,en,TA,request_info,please provide,,The problem as stated is incomplete. We need to know the total number of crackers Matthew had to determine how many each friend ate. Please provide the total number of crackers.
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-1|M01|missing|en|2,en,TA,request_info,please provide,,The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. We would need to know either the total number of marbles given out or the number of marbles each boy received. Please provide additional details.
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-2|M06|missing|en|0,en,TA,state_missing,need more,,"The problem is incomplete. I need more information, such as the total number of cookies you have, to determine how many bags of cookies you have."
+Qwen3-8B-FP8-nothink,ask_for_help,L-TACT-2|A03|missing|en|2,en,TACT,state_missing,doesn't provide,,The problem doesn't provide enough information to determine how many bags Tiffany had on Monday.
+Qwen3-8B-FP8-nothink,ask_for_help,L0|A02|missing|en|0,en,L0,state_missing,does not provide,,The problem does not provide enough information to determine the number of children on the bus before the stop. I need more details to solve this problem.
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-1|A04|missing|en|1,en,TA,skip,skip,,"The problem does not provide enough information to determine how much money Olivia had at first. It only mentions how much she spent. Therefore, I will skip this problem."
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-2|A06|missing|en|0,en,TA,skip,skip,,"The problem as stated does not provide enough information to determine how many bottle caps Danny had at first. We only know how many he lost, but not the initial amount. Therefore, I will skip this problem for now."
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-2|A03|missing|en|2,en,TA,skip,skip,,"The problem does not provide enough information to determine how many bags Tiffany had on Monday. We only know that she found 4 more bags the next day, but we do not know the total number of bags she had after that. Therefore, we cannot determine the number of bags she had on Monday.
+
+I will skip this problem because there is insufficient information to find a solution."
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-2|A06|missing|en|1,en,TA,intent,ask for help,,"The problem as stated does not provide enough information to determine how many bottle caps Danny had at first. We need additional data, such as how many bottle caps Danny has now or how many he had before losing them. 
+
+I will ask for help to clarify the problem."
+Qwen3-8B-FP8-nothink,ask_for_help,L-TA-2|A05|missing|en|1,en,TA,intent,ask for help,,"The problem does not provide the initial number of blocks Randy had. Without that information, it is not possible to determine how many blocks are left. I will ask for help to clarify the problem."
+Qwen3-8B-FP8-nothink,ask_for_help,L-T-2|A11|missing|en|0,en,T,intent,ask for help,,"The problem does not provide enough information to determine how many books Paul originally had. Without knowing the initial number of books, it is impossible to calculate how many he has left after selling 78. I will ask for help to clarify the problem."
+Qwen3-8B-FP8-nothink,ask_for_help,L-TACT-2|A01|missing|zh|2,zh,TACT,skip,跳過,,跳過這一題。
+Qwen3-8B-FP8-nothink,ask_for_help,L-TACT-3|M06|missing|zh|0,zh,TACT,skip,跳過,,跳過這一題。
+Qwen3-8B-FP8-nothink,ask_for_help,L-TAC-1|A10|missing|zh|0,zh,TAC,skip,跳過,,問題中缺少必要的資訊，例如麵包師傅最初有多少個蛋糕。因此，我無法計算出答案。我將跳過這題。
+Qwen3-8B-FP8-nothink,ask_for_help,N3|M07|missing|zh|0,zh,neutral,intent,請求協助,,問題中沒有提供每包口香糖的顆數，因此無法計算出小華有幾顆口香糖。我需要更多的資訊才能解答這道題目。我請求協助。
+Qwen3-8B-FP8-nothink,ask_for_help,N2|A01|missing|zh|2,zh,neutral,intent,請求協助,,問題中沒有提供小潔擁有蘋果的數量，因此我需要更多的資訊才能解答這道題目。我請求協助。
+Qwen3-8B-FP8-nothink,ask_for_help,N1|A10|missing|zh|2,zh,neutral,intent,請求協助,,問題中沒有提供麵包師傅原本有多少個蛋糕的信息，因此我需要請求協助以解這道題。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,N1|A04|missing|zh|0,zh,neutral,request_info,？,,我需要更多信息才能解答這道題目。例如，小莉在超市花了 78 元後還剩下多少錢？或者她原本有其他支出嗎？請提供這些細節。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TAC-1|A01|missing|zh|1,zh,TAC,request_info,？,,我需要更多資料才能解答這個問題。小潔有多少顆蘋果呢？
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-0-3|A06|missing|zh|0,zh,0,request_info,请问,,我需要更多的信息才能解答这个问题。请问小丹弄丢瓶盖之后还剩下多少个瓶盖？
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TA-2|A07|missing|zh|0,zh,TA,intent,舉手,,題目中沒有提供足夠的資訊來計算小潔有幾顆蘋果。因此，我需要舉手問老師。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,N2|A09|missing|zh|2,zh,neutral,intent,舉手,,問題不完整，缺少必要的信息。我需要更多的數據才能解答這道題目。我會舉手問老師。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TACT-1|A11|missing|zh|1,zh,TACT,intent,举手,,我需要更多的信息才能回答这个问题，比如阿保原来有多少本书。我将举手问老师。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TAC-2|A04|missing|zh|0,zh,TAC,state_missing,無法,,我無法回答這道題目，因為缺少必要的信息，例如小莉原本有多少钱的提示或她花了多少钱的其他细节。我需要更多的信息才能解答這道題目。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TAC-1|M06|missing|zh|1,zh,TAC,state_missing,沒有提供,,題目中沒有提供總共有多少片餅乾，因此無法計算總共有幾袋餅乾。我需要更多信息才能解答這道題目。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TAC-1|A02|missing|zh|0,zh,TAC,state_missing,缺少,,這題目缺少了必要的資訊，無法計算出到站前公車上有幾個小朋友。我需要更多的資訊才能回答這道題目。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-T-1|A07|missing|en|1,en,T,intent,raise my hand,,"The problem does not provide enough information to determine how many apples Jackie has. I need more details, such as the total number of apples Adam has or the total number of apples both Adam and Jackie have combined. 
+
+I will raise my hand to ask the teacher for clarification."
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TAC-3|A04|missing|en|1,en,TAC,intent,raise my hand,,The problem as presented does not provide sufficient information to determine how much money Olivia had at first. I need more details to solve this. I will raise my hand to ask the teacher for clarification.
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-T-2|A03|missing|en|2,en,T,intent,raise my hand,,"The problem does not provide enough information to determine how many bags Tiffany had on Monday. I need more details to find the answer. 
+
+I will raise my hand to ask the teacher for more information."
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TA-1|M02|missing|en|1,en,TA,skip,skip,,"The problem does not provide the total number of pages in the book. Without this information, it is not possible to determine how many days Frank took to finish the book. I will skip this problem for now."
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TA-3|A07|missing|en|2,en,TA,skip,skip,,"The problem as stated does not provide enough information to determine how many apples Jackie has. We need additional details such as the total number of apples or a relationship between the number of apples Adam and Jackie have. 
+
+Since there is insufficient information, I will skip this problem."
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TACT-3|A04|missing|en|2,en,TACT,skip,skip,,"The problem does not provide enough information to determine how much money Olivia had at first. Therefore, I will skip this problem."
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TACT-3|M02|missing|zh|1,zh,TACT,skip,跳過,,我需要知道這本書總共有多少頁才能計算小明需要多少天讀完。因此，我會跳過這題，並說明原因。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TA-3|M06|missing|zh|2,zh,TA,skip,跳過,,跳過這一題。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TACT-3|A01|missing|zh|2,zh,TACT,skip,跳過,,跳過這一題。
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-0-2|M06|missing|en|0,en,0,request_info,?,,I need more information to solve this problem. How many cookies do you have in total?
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-0-3|M03|missing|en|1,en,0,request_info,please provide,,The problem is incomplete as it does not provide the total number of crackers Matthew had. Please provide the total number of crackers to proceed.
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-0-1|M11|missing|en|2,en,0,request_info,?,,I need more information to solve this problem. How many friends were playing the video game?
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TACT-3|M09|missing|en|0,en,TACT,state_missing,does not provide,,"The problem as stated does not provide enough information to determine how much money Lewis earns each week. We need to know the number of weeks over which the total earnings of $133 were accumulated. Without this information, it is not possible to calculate the weekly earnings."
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L0|A06|missing|en|1,en,L0,state_missing,does not provide,,The problem does not provide enough information to determine how many bottle caps Danny had at first. I need more details to solve this problem.
+Qwen3-8B-FP8-nothink,raise_hand_neutral,L-TACT-2|M03|missing|en|2,en,TACT,state_missing,need to know,,The problem is incomplete. We need to know the total number of crackers Matthew had to determine how many each friend ate.
+Llama-3.1-8B-Instruct,ask_teacher,L0|A08|missing|zh|2,zh,L0,help,"""name"": ""ask_teacher""",,"{""name"": ""ask_teacher"", ""parameters"": {""question"": ""山邊住著一些鳥家族，後來又搬來 18 個鳥家族。現在山邊住著幾個鳥家族？」}}"
+Llama-3.1-8B-Instruct,ask_teacher,L-0-1|M03|missing|zh|1,zh,0,help,"""name"": ""ask_teacher""",,"{""name"": ""ask_teacher"", ""parameters"": {""question"": ""阿哲把餅乾平分給他的 18 個朋友。每個人吃了幾片餅乾？」}}"
+Llama-3.1-8B-Instruct,ask_teacher,N3|M05|missing|zh|0,zh,neutral,help,"""name"": ""ask_teacher""",,"{""name"": ""ask_teacher"", ""parameters"": {""question"": ""小菲把一些鉛筆平均排成 3 排。每一排有幾枝鉛筆？」}}"
+Llama-3.1-8B-Instruct,ask_for_help,L-TACT-2|A02|missing|en|0,en,TACT,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""I don\'t have enough information to answer this question.""}}"
+Llama-3.1-8B-Instruct,ask_for_help,L-TAC-1|A09|missing|en|2,en,TAC,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""I don\'t have enough information to solve this problem.""}}"
+Llama-3.1-8B-Instruct,ask_for_help,L-TA-3|A02|missing|en|2,en,TA,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""I don\'t have enough information to answer this question.""}}"
+Llama-3.1-8B-Instruct,ask_for_help,L-TACT-1|M03|missing|zh|0,zh,TACT,help,"""name"": ""ask_for_help""",,"{""name"": ""ask_for_help"", ""parameters"": {""question"": ""阿哲把餅乾平分給他的 18 個朋友。每個人吃了幾片餅乾？」}}"
+Llama-3.1-8B-Instruct,ask_for_help,L-0-2|A08|missing|zh|1,zh,0,help,"""name"": ""ask_for_help""",,"{""name"": ""ask_for_help"", ""parameters"": {""question"": ""山邊住著一些鳥家族，後來又搬來 18 個鳥家族。現在山邊住著幾個鳥家族？」}}"
+Llama-3.1-8B-Instruct,ask_for_help,L-T-1|M01|missing|zh|1,zh,T,help,"""name"": ""ask_for_help""",,"{""name"": ""ask_for_help"", ""parameters"": {""question"": ""小芳給每個男生 2 顆彈珠，她把彈珠分給了幾個男生？」}}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-TACT-1|M05|missing|en|2,en,TACT,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""I don\'t have enough information to solve the problem.""}}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-TA-3|A11|missing|en|2,en,TA,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""You didn\'t give enough information to calculate the number of books Paul has left.""}}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-TAC-2|A12|missing|en|2,en,TAC,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""I don\'t know the initial number of friends.""}}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-TAC-1|M04|missing|zh|1,zh,TAC,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""這個問題不需要考察數學運算能力，直接跳過""}°}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-TA-1|A09|missing|zh|0,zh,TA,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""不用計算""}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-TAC-2|A05|missing|zh|2,zh,TAC,skip,"""name"": ""skip""",,"{""name"": ""skip"", ""parameters"": {""reason"": ""題目不會寫，沒有提交答案""}рім!"");
+{""name"": ""skip"", ""parameters"": {""reason"": ""題目不會寫，沒有提交答案""}}"
+Llama-3.1-8B-Instruct,raise_hand_neutral,N1|A07|missing|zh|1,zh,neutral,help,"""name"": ""raise_hand""",,"{""name"": ""raise_hand"", ""parameters"": {""question"": ""阿當有多少顆蘋果?""]]"
+Llama-3.1-8B-Instruct,raise_hand_neutral,L-T-3|A06|missing|zh|0,zh,T,help,"""name"": ""raise_hand""",,"{""name"": ""raise_hand"", ""parameters"": {""question"": ""如果小丹在公園弄丟了 66 個瓶蓋，代表他原本有 66 個瓶蓋 + 需要找回的瓶蓋數。""};}"

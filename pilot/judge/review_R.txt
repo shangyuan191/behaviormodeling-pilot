@@ -1,0 +1,211 @@
+X0014 | The problem as stated does not provide enough information to determine how many blocks are left. We need to know the initial number of blocks Randy had before building the tower. Please provide this information or clarif
+X0018 | 問題不夠清楚，請提供更多資訊或明確的條件，例如總共有多少片餅乾。
+X0023 | The problem as stated does not provide the total number of pencils. Please provide the total number of pencils so that I can determine how many pencils were placed in each row.
+X0024 | 我需要更多的信息才能解答这个问题。例如，最初有多少个朋友在玩电動。请提供这个信息。
+X0028 | The problem does not provide enough information to determine the number of chairs at each table. Please provide additional details.
+X0029 | 問題不夠明確，請提供更多資訊，例如總共有多少片餅乾。
+X0036 | 我需要更多信息才能解决这个问题。请问最初有多少个朋友在玩电動？
+X0037 | The problem as stated does not provide enough information to determine the number of pencils in each row. Please provide the total number of pencils.
+X0039 | The problem is incomplete as it does not specify the total number of cookies you have. Please provide the total number of cookies so that I can determine how many bags you have.
+X0040 | The problem as stated does not provide enough information to determine how many apples Jackie has. Please provide additional details.
+X0041 | The problem as stated does not provide enough information to determine how much money Olivia had at first. Please provide additional details or clarify the question.
+X0043 | The problem is incomplete as it does not provide the total number of blocks Randy had initially. To determine how many blocks are left, we need to know the original quantity of blocks. Please provide the total number of 
+X0049 | The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. We need to know either the total number of marbles given or the number of marbles each boy received. Please
+X0051 | 問題不完整，缺少必要的數據。我需要知道總共有多少片餅乾才能計算出袋數。请提供更多信息。
+X0052 | The problem as stated does not provide enough information to determine the number of bags. Please provide the total number of cookies you have.
+X0053 | The problem does not provide the initial number of blocks Randy had. To determine how many blocks are left, we need to know the starting amount. Please provide the initial number of blocks Randy had.
+X0057 | The problem does not provide enough information to determine the number of chairs for each table. Please provide more details or clarify the problem.
+X0058 | The problem is incomplete as it does not provide the total number of pencils. Please provide the total number of pencils so that I can solve the problem.
+X0059 | 問題中缺少必要的信息，无法确定小潔有幾顆蘋果。请提供更多细节或数据。
+X0060 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We know she gave 2 marbles to each boy, but we do not know the total number of marbles given out or the number o
+X0118 | 我需要更多信息才能解答這道題目。請問原本有多少個朋友在玩電動？
+X0127 | 我需要更多資訊才能解答這道題目。例如，總共有多少塊積木？
+X0129 | The problem is incomplete. I need more information to determine the number of bags. Please provide the total number of cookies.
+X0131 | I don't have enough information to solve this problem. I need to know how many cookies I have in total. Could you please provide that information?
+X0135 | The problem does not provide enough information to determine the number of pencils in each row. Please provide the total number of pencils.
+X0136 | 我需要更多的信息才能解答這個問題。請問每排有幾枝鉛筆？
+X0145 | 我需要更多資訊來解決這個問題。請問你有多少片餅乾？
+X0154 | The problem is incomplete as it does not provide the total number of marbles Haley gave out. Please provide the total number of marbles given to the boys.
+X0166 | 我需要更多信息才能解答這道題目。請問原本山邊住著多少個鳥家族？
+X0167 | 我需要更多的信息才能解答这个问题。例如，阿宏最初有多少块积木？
+X0174 | 我需要更多信息才能解答这个问题。阿当有多少颗苹果呢？
+X0182 | 我需要更多信息才能解决这个问题。例如，原本山边住着多少个鸟家族？请提供这个数据。
+X0191 | 問題不完整，缺少必要的數據。請提供每個人吃了多少片餅乾的資訊。
+X0194 | 問題缺少必要的資訊，無法計算答案。請提供小潔有多少顆蘋果。
+X0197 | The problem as stated does not provide enough information to determine how many bottle caps Danny had at first. We only know how many he lost, but not the initial number. Please provide more details or clarify the questi
+X0200 | 問題不完整，缺少必要的資訊。我需要知道你總共有多少片餅乾才能計算出總袋數。請提供更多信息。
+X0210 | 我需要更多的信息才能解答這道題目。我需要知道昨天這台機器一共做了多少件襯衫。请老师告诉我昨天的总产量。
+X0212 | The problem is incomplete and lacks specific information about the total number of cookies you have. Please provide the total number of cookies so I can calculate the number of bags.
+X0216 | I need more information to solve this problem. How many cookies do you have in total?
+X0219 | The problem as stated does not provide the total number of cookies you have, so it is not possible to determine the number of bags. Please provide the total number of cookies.
+X0223 | The problem as stated does not provide enough information to determine how many cakes the baker still has. We would need to know the original number of cakes the baker had before selling 137 to his friend. Please provide
+X0225 | 我需要更多資訊才能解答這道題目。例如，原來山邊住著多少個鳥家族？
+X0232 | 我需要更多信息才能解答这个问题。例如，小丹在弄丢瓶盖后还剩下多少个瓶盖？如果没有这个信息，我无法计算他原本有多少个瓶盖。
+X0237 | 我需要更多的信息才能解决这个问题。请问每一排有多少枝铅笔？
+X0239 | I need more information to solve this problem. How many flowerbeds did they plant the seeds in?
+X0242 | 我需要更多的信息才能回答这个问题，例如昨天机器制作的衬衫数量。请提供这个信息。
+X0244 | The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. We need to know either the total number of marbles given out or the number of marbles each boy received. Pl
+X0245 | 我需要知道昨天這台機器一共做了多少件襯衫，才能計算出它昨天工作了多少分鐘。請問昨天這台機器做了多少件襯衫？
+X0248 | 我需要更多信息才能解答这个问题。请问阿当有多少颗苹果？
+X0258 | 問題不夠明確，我需要更多的資訊才能解答。例如，總共有多少片餅乾？
+X0266 | 我需要更多的資訊才能解答這個問題。請告訴我原本有多少個朋友在玩電動。
+X0267 | 我需要更多信息才能解答這道題目。請問你總共有多少片餅乾？
+X0270 | 我需要更多的信息才能解答這個問題。請問你有多少片餅乾？
+X0271 | 我需要更多資訊來解決這道題目。例如，昨天這台機器一共做了多少件襯衫。請提供這部分的資訊。
+X0273 | 我无法回答这个问题，因为它缺乏足够的信息。我需要知道小丹在弄丢瓶盖之后还剩下多少个瓶盖，或者他总共收集了多少个瓶盖。请提供这些信息。
+X0274 | The problem does not provide the total number of pencils. Please provide the total number of pencils to solve this problem.
+X0275 | The problem as stated does not provide the total number of pencils. Please provide the total number of pencils so I can determine how many were placed in each row.
+X0276 | 我需要更多的信息才能解答這道題目。請告訴我你總共有多少片餅乾。
+X0277 | 我需要更多的信息来解答这个问题。我不知道昨天这台机器总共做了多少件衬衫。请告诉我昨天的总数。
+X0285 | 我需要更多信息才能解答這道題目。請問小潔有多少顆蘋果？
+X0286 | 問題不完整，請提供更多資訊。
+X0288 | 問題不夠明確，我需要更多的資訊才能解答。例如，阿哲總共有多少片餅乾？
+X0292 | 我需要更多的信息才能解答这个问题。例如，原来山边住着多少个鸟家族？请提供这个信息。
+X0296 | 我需要更多的信息才能解答这个问题。请告诉我每个朋友吃了多少片饼干，或者阿哲总共有多少片饼干。
+X0310 | The problem as stated does not provide the total number of pencils. Please provide the total number of pencils so that I can solve the problem.
+X0338 | The problem as stated does not provide the total number of cookies you have, which is necessary to determine how many bags of cookies you have. Please provide the total number of cookies.
+X0342 | The problem does not provide enough information to determine how many blocks are left. Please provide the total number of blocks Randy had initially.
+X0343 | The problem as stated does not provide the number of flowerbeds. To find the number of seeds planted in each flowerbed, we would need to know how many flowerbeds there were. Could you please provide that information?
+X0348 | The problem as stated does not provide enough information to determine how many pencils Faye placed in each row. Please provide the total number of pencils.
+X0357 | 我需要更多信息才能解答这个问题。例如，小丹在弄丢瓶盖后还剩下多少个瓶盖？或者他总共收集了多少个瓶盖？
+X0359 | 我需要更多信息才能解答這道題目。例如，小莉原本的錢和花掉的錢之間有什麼關係？或者是否有其他條件需要考慮？
+X0366 | 我需要更多資訊才能解決這個問題。例如，總共有多少片餅乾？
+X0367 | The problem as stated does not provide enough information to determine how many apples Jackie has. Please provide additional details or clarify the question.
+X0368 | The problem as stated does not provide the total number of cookies you have, so it's not possible to determine the number of bags. Please provide the total number of cookies.
+X0369 | 我需要更多的信息才能解答這個問題，例如阿凱每週賺的錢數。請問他每週賺了多少錢？
+X0371 | 我需要更多信息才能解答這道題目。請問昨天這台機器一共做了多少件襯衫？
+X0373 | The problem does not provide enough information to determine the initial number of friends playing video games. Please provide the initial number of friends.
+X0379 | 我需要更多信息才能解答这个问题。请问到站后公车上共有多少个小朋友？
+X0385 | 問題不完整，缺少必要的信息。我需要更多的數據才能解答這個問題。请提供更多信息。
+X0387 | 我需要更多信息来解答这个问题。题目中没有给出小芳总共分发了多少颗弹珠，或者她班上有多少个男生。因此，我无法确定她分给了多少个男生。  如果题目中提到小芳分发的弹珠总数，或者每个男生得到的弹珠数量，那么我可以计算出男生的人数。请提供这些信息。
+X0388 | The problem doesn't provide enough information to determine the number of chairs for each table. Please provide more details or clarify the question.
+X0390 | 我需要更多信息才能解决这个问题，比如阿凯每周赚多少钱或者他工作了多少周。请提供这些信息。
+X0393 | The problem as stated does not provide the number of flowerbeds. To determine how many seeds were planted in each flowerbed, we need to know the total number of flowerbeds. Could you please provide that information?
+X0395 | 我需要更多信息才能解答這道題目。例如，原本山邊住著多少個鳥家族？
+X0404 | 我需要更多信息才能解答這道題目。第二章的頁數並未提供，請提供第二章的頁數或總頁數。
+X0405 | 我需要更多信息才能解答这个问题。请告诉我小丹现在有多少个瓶盖。
+X0406 | 我需要更多信息才能解答這個問題。目前的總人數是多少？
+X0414 | 我需要更多的信息才能解答這道題目。例如，阿宏總共有多少塊積木？
+X0420 | 問題中缺少必要的信息，例如總共有多少片餅乾。請老師提供更多信息。
+X0421 | 我需要更多信息才能解答這道題目。例如，小莉原本有多少钱的條件或她花了多少钱的相關細節。請提供更多資料。
+X0423 | 我需要更多資訊才能解決這個問題。例如，昨天這台機器一共做了多少件襯衫。請問老師。
+X0434 | 我需要更多關於昨天做的襯衫數量的信息才能回答這道題目。請提供昨天做的襯衫數量。
+X0435 | The problem is incomplete as it does not specify how many marbles Haley gave out in total. Please provide the total number of marbles given out so that I can solve the problem.
+X0438 | The problem as stated does not provide enough information to determine the number of bags of cookies. Please provide the total number of cookies.
+X0440 | 我需要更多的資訊才能解答這道題目。例如，原本有多少個朋友在玩電動？
+X0443 | The problem as stated does not provide the total number of cookies, which is necessary to determine how many bags of cookies you have. Please provide the total number of cookies.
+X0446 | The problem as stated does not provide enough information to determine how many blocks are left. We would need to know the original number of blocks Randy had before building the tower. If you have that information, plea
+X0448 | 我需要更多的信息才能解决这个问题，比如昨天机器总共做了多少件衬衫。请提供这个信息。
+X0449 | 我需要更多的信息才能解答这个问题。例如，原来有多少个朋友在玩电動？
+X0451 | 我需要更多信息才能解答這道題目。阿當有多少顆蘋果？
+X0453 | 我需要更多信息才能解答這道題目。阿當總共有多少顆蘋果？
+X0455 | I don't have enough information to solve this problem. I need to know how many cakes the baker originally had. Could you please provide that information?
+X0461 | The problem is missing information. I cannot determine the initial number of friends. Please provide the initial number of friends.
+X0467 | 我需要更多的信息来解答这个问题，比如阿凯每週赚的钱数或者他工作的总周数。请提供这些信息。
+X0470 | 我需要更多信息才能解决这个问题。例如，面包师傅最初有多少个蛋糕？
+X0483 | 我需要更多的信息才能解答这个问题。例如，最初有多少个朋友在玩电動？
+X0486 | 我需要更多信息才能解答这个问题。小莉在超市花了78元，但不知道她原本有多少钱，我需要知道她花完钱后还剩下多少钱，或者她原本的金额与花掉金额之间的关系。请提供这些信息。
+X0491 | The problem does not provide enough information to determine how many blocks are left. Please provide the initial number of blocks or the number of blocks Randy used.
+X0492 | The problem does not provide enough information to determine how much money Lewis earns each week. We need to know the number of weeks over which he earned $133. Please provide more details or clarify the problem.
+X0499 | 我需要更多信息才能解答這個問題。請告訴我原本有多少個朋友在玩電動。
+X0501 | The problem does not provide the total number of cookies. Please provide the total number of cookies to determine how many bags you have.
+X0505 | 我需要更多的信息来解答这个问题，比如昨天总共做了多少件衬衫。请提供这个信息。
+X0506 | The problem is incomplete as it does not specify the total number of pencils Faye placed. Please provide the total number of pencils.
+X0507 | 問題不夠明確，請問老師更多細節。
+X0511 | 我需要更多信息才能解答這個問題。第二章的頁數與第一章的頁數之間有什麼關係？例如，第二章的頁數是否與第一章相同、更多或更少？或者有其他條件嗎？
+X0514 | 我需要更多資訊才能解答這道題目。請問第二章的頁數與第一章有什麼關係？例如，第二章的頁數是第一章的多少倍，或者是否有其他條件？
+X0520 | The problem as stated does not provide enough information to determine how many blocks are left. I need to know the initial number of blocks Randy had before building the tower. Could you please provide that information?
+X0522 | 我需要更多信息才能解答这个问题。小丹原本有多少个瓶盖？
+X0525 | I need more information to solve this problem. How many books did Paul have initially?
+X0532 | I need more information to solve this problem. How many friends were playing the video game?
+X0533 | The problem as stated does not provide enough information to determine the number of bags of cookies. Please provide the total number of cookies you have.
+X0535 | 題目資訊不夠完整，無法計算總共有多少袋餅乾。請提供餅乾的總數。
+X0536 | 我需要更多的信息才能解决这个问题。请告诉我你有多少片饼干。
+X0538 | The problem as stated does not provide information about how many apples Jackie has. To determine how many more apples Adam has than Jackie, we need to know the number of apples Jackie has. Please provide that informatio
+X0554 | 我需要更多的信息才能解决这个问题，比如阿凯每週赚多少钱或者他总共工作了多少周。请提供这些信息。
+X0558 | 我需要更多信息才能解答這個問題。目前只知道後來有 3 個朋友來了，但不知道最初有多少人。請問最初有多少人？
+X0564 | 我需要更多信息才能解答這道題目。請告訴我總共有多少片餅乾。
+X0569 | The problem as stated does not provide enough information to determine how many pencils Faye placed in each row. We need to know the total number of pencils. Please provide the total number of pencils.
+X0571 | The problem is incomplete as it does not provide the total number of crackers Matthew had. Please provide the total number of crackers to solve the problem.
+X0575 | 我需要更多的信息才能解答這道題目。例如，昨天這台機器一共做了多少件襯衫？
+X0577 | The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. Specifically, we need to know the total number of marbles Haley gave out. With that, we can divide by 2 to 
+X0580 | The problem as stated does not provide enough information to determine the number of pencils Faye placed in each row. Please provide the total number of pencils.
+X0581 | 我需要更多資訊才能解決這個問題。例如，我需要知道總共有多少片餅乾。請提供總片數。
+X0588 | The problem as stated does not provide enough information to determine the number of pencils in each row. We need to know the total number of pencils. Please provide the total number of pencils or clarify the problem.
+X0593 | 問題缺乏足夠的資訊來計算總命數。請問老師，題目中是否有提到朋友的人數？
+X0596 | 問題不完整，請提供更多信息，例如總共有多少片餅乾。
+X0602 | The problem is incomplete. We need the total number of pencils to determine how many pencils are in each row. Please provide the total number of pencils.
+X0603 | The problem as stated does not provide enough information to determine the number of bags of cookies. We need to know how many cookies you have in total. Could you please provide that information?
+X0605 | The problem does not provide the total number of pencils. Please provide the total number of pencils to proceed.
+X0610 | 我需要更多的信息才能解答這道題目，例如你總共有多少片餅乾。請提供總片數。
+X0612 | The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. We need to know the total number of marbles Haley gave out or the number of marbles each boy received. Plea
+X0615 | 我需要更多資訊才能解答這道題目。請告訴我這本書總共有多少頁。
+X0618 | 我需要更多的資訊才能回答這個問題。例如，每包口香糖有多少顆。請問老師這個資訊。
+X0622 | 我需要更多信息才能解答這個問題。請問你有多少片餅乾？
+X0625 | 問題中沒有提供關於朋友人數的明確資訊，因此我需要進一步了解。請問這群朋友一共有多少人？
+X0633 | 我需要更多的信息来解答这个问题。例如，阿凱在採收季工作了多少周？请提供这个信息。
+X0634 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We need to know the total number of marbles Haley gave out or how many marbles each boy received. Please provide
+X0640 | The problem does not provide enough information to determine the number of children on the bus before the stop. Please provide additional details.
+X0641 | 我需要更多信息才能解答这个问题。请问每个朋友吃了多少片饼干？
+X0650 | 我需要更多信息才能解答这个问题。小洁有多少颗苹果？
+X0652 | 我需要更多的資訊才能解答這道題目。請問你有多少片餅乾？
+X0662 | 我無法回答這個問題，因為缺少必要的資訊。請提供第二章的頁數或其他相關細節。
+X0665 | 我需要更多的信息才能解答這個問題。請問阿宏原本有幾塊積木？
+X0670 | 我需要更多的信息才能解答这个问题，比如阿宏最初有多少块积木。请提供初始的积木数量。
+X0678 | 我需要更多的資訊才能解答這道題目。例如，原本有多少塊積木？
+X0679 | 我需要更多信息才能解答這道題目。小莉原本有多少錢與她花了 78 元之間的關係不明确。請提供更多的細節或條件。
+X0693 | The problem as stated is incomplete. There is no information provided about the total number of cookies you have. Please provide the total number of cookies to proceed.
+X0694 | The problem does not provide enough information to determine how many blocks are left. Please provide the initial number of blocks or the number of blocks used.
+X0696 | The problem does not provide enough information to determine the number of chairs at each table. Please provide the total number of chairs or additional details.
+X0697 | 我需要更多信息来解答这个问题。例如，昨天总共做了多少件衬衫？或者是否有其他信息可以帮助计算昨天的工作时间？
+X0698 | 我需要更多資料才能解答這個問題。例如，阿宏原本有多少塊積木？
+X0699 | 我需要更多資訊才能解答這個問題。例如，阿宏原本有多少塊積木？
+X0705 | 我需要更多的信息来解答这个问题，例如花圃的数量。请提供花圃的数量。
+X0714 | The problem as stated does not provide enough information to determine how many apples Jackie has. We know that Adam has 3 more apples than Jackie, but we do not know how many apples Adam has. Please provide more informa
+X0715 | The problem is missing some information, such as the total number of cookies you have. Please provide the total number of cookies so I can determine how many bags you have.
+X0718 | 我需要更多信息才能解答這個問題。小丹原本有幾個瓶蓋的數量沒有被提供，我需要知道他現在有多少個瓶蓋或者他總共有多少個瓶蓋。請問老師，我可以怎麼做才能得到這些資訊？
+X0723 | 我需要更多信息才能解答這道題目。例如，昨天機器做了多少件襯衫。請老師提供這方面的資訊。
+X0726 | 我需要更多的資訊才能解答這道題目。例如，原來山邊住著多少個鳥家族？
+X0728 | 我需要更多的信息才能解答这个问题。例如，最初有多少个朋友在玩电动。请提供这个信息。
+X0732 | 題目不夠明確。我需要更多的信息才能解答這個問題。例如，總共有多少片餅乾？
+X0734 | 我需要更多的信息才能解答这个问题，比如总共有多少片饼干。请提供这个信息。
+X0735 | 我需要更多的資訊才能解這道題目。目前只知道後來搬來 18 個鳥家族，但不知道原本山邊住著多少個鳥家族。請問原本山邊住著多少個鳥家族？
+X0738 | The problem as stated does not provide enough information to determine the number of bags of cookies. I need to know how many cookies you have in total. Could you please provide that information?
+X0748 | 我需要更多的信息才能解决这个问题。例如，阿保最初有多少本书？
+X0749 | The problem does not provide the total number of cookies you have, so it is impossible to determine how many bags of cookies you have. Please provide the total number of cookies.
+X0752 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. To solve this, we would need to know the number of weeks over which the total earnings of $133 were accumulated
+X0754 | 我需要更多的信息才能解答这个问题。请问阿宏原本有多少块积木？
+X0755 | 我需要更多資訊才能解答這個問題。請問小莉原本有多少钱的其他細節？
+X0760 | 我需要更多的信息来解答这个问题，比如你知道总共有多少片饼干吗？
+X0761 | The problem as stated does not provide the total number of pencils. Please provide the total number of pencils so that I can calculate how many pencils were placed in each row.
+X0764 | 我需要知道這本書總共有多少頁才能計算小明需要多少天讀完。請提供這本書的總頁數。
+X0766 | 我需要更多信息才能回答这个问题。请告诉我每个朋友吃了多少片饼干。
+X0773 | The problem as stated does not provide enough information to determine how many pencils Faye placed in each row. To solve the problem, we would need to know the total number of pencils. Please provide more details.
+X0776 | The problem as stated does not provide sufficient information to determine how many apples Jackie has. We only know the relationship between the number of apples Adam has and Jackie's, but we do not know the actual numbe
+X0777 | 我需要更多資訊才能解答這道題目。例如，這本書總共有多少頁？
+X0783 | 我需要更多信息才能解答這道題目。例如，麵包師傅原本有多少個蛋糕？
+X0784 | 我需要更多的信息才能解答这个问题。请告诉我你有多少片饼干。
+X0791 | I don't know how many friends were playing the video game. Can I ask the teacher for clarification?
+X0796 | The problem is incomplete as it does not provide the total number of crackers Matthew had. Please provide the total number of crackers so that I can solve the problem.
+X0806 | 我需要更多的信息來解答這道題目，例如昨天這台機器做了多少件襯衫。請問昨天這台機器做了多少件襯衫？
+X0807 | 我需要更多信息才能解答這道題目。例如，小莉原本的錢減去花掉的 78 元後的剩餘金額是多少？或者是否有其他條件需要考慮？
+X0808 | The problem as stated does not provide enough information to determine the number of pencils placed in each row. Please provide the total number of pencils.
+X0814 | The problem is incomplete as it does not specify the number of friends. Please provide the number of friends to calculate the total number of lives.
+X0819 | The problem does not provide the initial number of books Paul had. To find out how many books he has left, we need to know how many books he originally had before selling 78 of them. Please provide the initial number of 
+X0820 | 我需要更多的信息才能解答这个问题。例如，原本山边住着多少个鸟家族？请告诉我初始的数量。
+X0821 | 我需要更多的信息才能解答這道題目，例如昨天這台機器一共做了多少件襯衫。請問老師這方面的信息。
+X0822 | 我需要更多資訊才能解答這道題目。小潔有多少顆蘋果？
+X0823 | The problem does not provide the total number of pencils. Please provide the total number of pencils so that I can determine how many pencils are in each row.
+X0824 | The problem as stated does not provide enough information to determine the number of chairs for each table. Please provide additional details.
+X0825 | 我需要更多信息来解答这个问题。请告诉我阿当有多少颗苹果。
+X0828 | 我需要更多資訊才能回答這道題目，例如每包口香糖有多少顆。請提供這方面的資訊。
+X0831 | The problem as stated is incomplete. I need to know how many marbles Haley gave in total to determine how many boys she gave marbles to. Please provide the total number of marbles given.
+X0837 | 我需要更多的資訊才能解決這道問題。例如，昨天這台機器做了多少件襯衫。請問老師，我是否可以獲取這個資訊？
+X0848 | 問題不夠明確，我需要更多資訊才能解答。請問總共有多少片餅乾？
+X0854 | The problem does not provide enough information to determine the number of chairs at each table. Please provide the total number of chairs or any additional details.
+X0856 | 我需要更多的資訊來解答這道題目。例如，阿凱每週賺的錢數或者他工作了多少週。請提供這些資訊。
+X0859 | 我需要更多資料才能解答這道題目。口香糖每包有多少顆？
+X0860 | 問題中缺少必要的信息，例如總共有多少片餅乾。請問老師，是否有其他數據可以提供？
+X0882 | 我需要更多資訊才能解答這個問題。例如，總共有多少片餅乾？
+X0883 | The problem does not provide enough information to determine the total number of people. Please provide the initial number of friends playing video games.
+X0892 | The problem is incomplete as it does not provide the total number of pencils. Please provide the total number of pencils to proceed.

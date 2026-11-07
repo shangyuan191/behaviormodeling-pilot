@@ -1,0 +1,3 @@
+X0083 | {"name": "skip", "parameters": {"reason": "阿哲原本有 36 片餅乾，沒有足夠給每人分得平"}
+X0086 | {"name": "skip", "parameters": {"reason": "I don"});    Unexpected error with the provided function names and parameters: Unexpected error with the provided function names and parameters. Ask the teacher for an equation 
+X0100 | {"name": "skip", "parameters": {"reason": "題目沒有明確提到需要使用乘法和除法，")

@@ -1,0 +1,47 @@
+X0000 | {"name": "ask_teacher", "parameters": {"question": "阿哲把餅乾平分給他的 18 個朋友。每個人吃了幾片餅乾？」}}
+X0001 | {"name": "ask_teacher", "parameters": {"question": "小芳班上有一些男生喜歡玩彈珠，\u5b50\u662f\u5206\u4e60\u6709 28\u980a\u5f69\u4f4d\u3002\u5b50\u662f\u4e3a\u51f0\u4e00\u6761\u597d\u5916\u3001\u969e\u516b\u3001\u4e01\u9ad4\u3001\u6d88
+X0002 | {"name": "ask_teacher", "parameters": {"question": "小菲把一些鉛筆平均排成 3 排。每一排有幾枝鉛筆？」}}
+X0003 | {"name": "ask_teacher", "parameters": {"question": "Small \\u3000given \\u30001}}
+X0004 | {"name": "ask_teacher", "parameters": {"question": "Public transportation 41" + "\u79c1\u5371\u3001\u5403\u5c45\u3001\u5e73\u5f69\u65b9\u7b2c"}}
+X0005 | {"name": "ask_teacher", "parameters": {"question": "一群朋友在玩電動，後來又來了 3 個朋友。現在一共有幾個人？」}}
+X0006 | {"name": "ask_teacher", "parameters": {"question": "小菲把 12 枝鉛筆平均排成 3 排。每一排有幾枝鉛筆？」}}
+X0007 | {"name": "ask_teacher", "parameters": {"question": " \u60ac\u60ac\u60ac 28 \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\
+X0065 | {"name": "ask_teacher", "parameters": {"question": "4 個朋友在玩電動，後來又來了 3 個朋友。現在一共有幾個人？」}}
+X0066 | {"name": "ask_teacher", "parameters": {"question": "12ост支に卻还級最初"}
+X0067 | {"name": "ask_teacher", "parameters": {"question": "2張桌子,共12張椅子,每桌椅子數相同,求每桌椅子數"}
+X0068 | {"name": "ask_teacher", "parameters": {"question": "如果星期二有 8 袋，第二天找到 4 袋，那么星期一有幾袋？」}}
+X0069 | {"name": "ask_teacher", "parameters": {"question": "一台机昨日做了条然今天做了44条。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\
+X0070 | {"name": "ask_teacher", "parameters": {"question": "28 \u53c2\u4f53\u4e86 2\u53c2\u5b50\u5929\u4e86 \u60f3\u4e86\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001\u3001
+X0071 | {"name": "ask_teacher", "parameters": {"question": "小芳原本有 28 顆彈珠，每個男生收到 2 顆彈珠，請求老師告訴我有多少個男生"}
+X0072 | {"name": "ask_teacher", "parameters": {"question": "32分 8等如何目前的"))
+X0073 | {"name": "ask_teacher", "parameters": {"question": "一台機器昨天做了 9 件襯衫，今天做了 44 件。它每分鐘可以做 3 件。\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u3002\u300
+X0074 | {"name": "ask_teacher", "parameters": {"question": "你學過加法和減法，還沒有學過乘法和除法。題目沒有涉及到乘法和除法，只是學過的加法和減法。可以先做加法或減法驗算看看"}
+X0075 | {"name": "ask_teacher", "parameters": {"question": "一本書有 2 章，第一章有 60 頁，整本書有 93 頁。第二章有幾頁？如果再問不知道答案，請告訴老師"一本書總共有 2 章，每章分別有若干個頁數，第一章有 60 頁，整本書有 93 頁，求第二章的頁數"，並將題目分為加法和減法來解答"}}
+X0076 | {"name": "ask_teacher", "parameters": {"question": "一台機器今天做了 44 件襯衫，今天它每分鐘可以做 3 件襯衫。這台機器 44\9 做襯衫所需的分鐘數？"}}
+X0078 | {"name": "ask_teacher", "parameters": {"question": "36 \u56ed\u6c49\u53e3\u6027\u6216\u53f3\u53f3\u4f1a\u6211\u7684\u5165\u53f3\u5929 18\u4e2a\u624b\u673a\u53e3\u6027\u6216\u53f3\u53f3\u4f1a\u6210\u53f3\u6027\u53e3\u6027
+X0080 | {"name": "ask_teacher", "parameters": {"question": "12 \u53f0\u5f6f\u4f7\u4e86 3 \u6d41\u5173\uff0c\u5408\u9002\u4e00\u89c1\u4e86\u98ef\u5f6f\u4f7\u7684\u8ba4\u5e38\u306f\u4e50\u98ef\u5f6f\u4f7\u3002"}}
+X0081 | {"name": "ask_teacher", "parameters": {"question": "小莉在超市花了 78 元，還剩下 33 元，若她原來有 money 元，則 money - 78 = 33\. 介意告訴我答案嗎？"}}
+X0082 | {"name": "ask_teacher", "parameters": {"question": "I don\\" "","+str(28)+"\\" "","2"}}
+X0084 | {"name": "ask_teacher", "parameters": {"question": "餅乾總共被分成了幾片？」}}
+X0087 | {"name": "ask_teacher", "parameters": {"question": "33 \u3000\u5247\u3000\u7bc0\u72f5\u6a0a\uff0c\u548c\u3000\u66f4\u5929\u5bb6\u884c\u7231 11 \u3000\u5247\u3000\u4e0d\u3000\u3001\u8ba3\u7b97\u3000\u3001\u3000\u3001\u300
+X0088 | {"name": "ask_teacher", "parameters": {"question": "一台機器昨天做了 9 件襯衫，今天做了 44 件。它每分鐘可以做 3 件。\u3002\uff0c\u3002\u3002\u3001\u3001\u3002\u3001\u3002\u3001\u3002\u3001\u3002\u3002\u3002\u3002\u3001\u3002\u3002\u3002\u3002\u300
+X0089 | {"name": "ask_teacher", "parameters": {"question": "阿宏一開始有 59 塊積木，對嗎？他用了 36 塊蓋一座塔，對嗎？所以他還剩下 59 - 36 = \u3000\u3000\u3000\u3000\u3000？？？」}}
+X0090 | {"name": "ask_teacher", "parameters": {"question": "山邊住著 87 個鳥家族，後來又搬來 18 個鳥家族。現在山邊住著幾個鳥家族？」}}
+X0091 | {"name": "ask_teacher", "parameters": {"question": "4 顆代表多少個？」}}
+X0092 | {"name": "ask_teacher", "parameters": {"question": "12 \u53d6\u4f55\u4e2d\u54c1\u66f4\u505a 3 \u76ee\u5206\u3002\u5408\u4e00\u76ee\u5206\u4e2d\u3001\u5e2e\u4e2d\u4f4d\u53f0\u3001\u76ee\u5206\u5417\u3001\u3001\u76ee\u5206
+X0093 | {"name": "ask_teacher", "parameters": {"question": "阿哲把餅乾平分給他的 18 個朋友，他原本有 36 片餅乾，請問每人會得到 2 片餅乾？為什麼？」}}
+X0094 | {"name": "ask_teacher", "parameters": {"question": "12 \u5c0f\u767d\u914d\u7a7a 3 \u90ae\u767d\u3002\u4eca1\u4e00\u90ae\u6709\u4e8c\u4e09\u767d\u767d\u914d\u7a7a\u3001\u4e48\u4e09\u767d\u767d\u914d\u7a7a\u3001\u4e09\u4e0
+X0096 | {"name": "ask_teacher", "parameters": {"question": "What does the problem mean by "Then there were 41 children on the bus."?"}}
+X0097 | {"name": "ask_teacher", "parameters": {"question": "小華有 28 包口香糖，每包有 4 顆，還有 13 包糖果，每包有 4 顆，總共有幾顆"?
+X0098 | {"name": "ask_teacher", "parameters": {"question": "我想知道題目"How many bags of cookies do you have?"，可以改進一些嗎？"}}
+X0099 | {"name": "ask_teacher", "parameters": {"question": "12""̲3=?"}}
+X0101 | {"name": "ask_teacher", "parameters": {"question": "請再次詢問問題\t",}}
+X0102 | {"name": "ask_teacher", "parameters": {"question": "你想要我求什麼？」}}
+X0103 | {"name": "ask_teacher", "parameters": {"question": "28 \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3
+X0104 | {"name": "ask_teacher", "parameters": {"question": "麵包師傅做了 169 個蛋糕，他的朋友買走了 137 個。麵包師傅還剩幾個蛋糕？」}}
+X0105 | {"name": "ask_teacher", "parameters": {"question": "8 個朋友，一共有多少條命？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+X0113 | {"name": "ask_teacher", "parameters": {"question": "小芳給每個男生 2 顆彈珠，她把彈珠分給了幾個男生？」}}
+X0114 | {"name": "ask_teacher", "parameters": {"question": "阿宏用了 36 塊積木蓋一座塔，還剩下幾塊積木？」}}
+X0115 | {"name": "ask_teacher", "parameters": {"question": "公車上有一些小朋友。到站時又上來 2 個小朋友。到站前公車上有幾個小朋友？」}}
+X0116 | {"name": "ask_teacher", "parameters": {"question": "山邊住著一些鳥家族，後來又搬來 18 個鳥家族。現在山邊住著幾個鳥家族？」}}
+X0117 | {"name": "ask_teacher", "parameters": {"question": "阿宏用了 36 塊積木蓋一座塔。還剩下幾塊積木？」}}

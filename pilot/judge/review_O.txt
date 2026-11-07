@@ -1,0 +1,16 @@
+X0077 | "解題需要的資訊都在題目裡，請再仔細讀一次。"
+X0110 | The machine made 9 shirts yesterday. If it can make 3 shirts a minute, then the number of minutes it worked yesterday is 9 divided by 3. I need to calculate that.
+X0158 | The problem lacks sufficient information to determine the total number of people. I need to know the initial number of friends playing video games before the additional 3 friends arrived.
+X0201 | 我沒有足夠的資訊來解答這道題目。我需要知道阿保原本有多少本書。
+X0218 | 我沒有足夠的資訊來解答這道題目。我需要知道小丹在弄丟這些瓶蓋後還剩下多少瓶蓋。
+X0240 | 我沒有足夠的資訊來解答這道題目。我需要知道原本山邊住著多少個鳥家族。
+X0283 | 我目前沒有足夠的資訊來解答這道題目。我需要知道最初有幾個朋友在玩電動。
+X0290 | 我沒有足夠的信息來解答這道題目。我需要知道小莉原本有多少钱或者她花了多少钱。
+X0397 | 沒有足夠的資訊來解答這道題目。我需要知道最初山邊住著多少個鳥家族。
+X0460 | 我沒有足夠的資訊來解答這個問題。我需要知道小丹現在有多少個瓶蓋，或者他原本有幾個瓶蓋的其他相關資訊。
+X0489 | 我沒有足夠的信息来解答这个问题。我需要知道原来山边住着多少个鸟家族。
+X0523 | The problem as presented lacks sufficient information to determine the number of boys Haley gave marbles to. We need to know the total number of marbles given or another relevant detail to solve the problem.
+X0585 | 我沒有足夠的信息来回答这个问题，因为题目中没有提到小洁有多少颗苹果。我需要知道小洁的苹果数量才能计算阿当比小洁多多少颗苹果。
+X0592 | 我目前沒有足夠的資訊來解答這道題目。我需要知道阿當有多少顆蘋果，或者有其他相關的資訊。
+X0706 | To find out how many days Frank took to finish the book, we divide the total number of pages by the number of pages he reads per day.  $$ \text{Number of days} = \frac{\text{Total pages}}{\text{Pages per day}} = \frac{39
+X0853 | To find out how many days Frank took to finish the book, we divide the total number of pages by the number of pages he reads per day.  $$ \text{Number of days} = \frac{\text{Total pages}}{\text{Pages per day}} = \frac{39

@@ -1,0 +1,180 @@
+X0009 | 問題中缺乏足夠的資訊來解答。我需要知道小菲總共有多少枝鉛筆才能計算每一排有幾枝。我會向老師詢問更多細節。
+X0010 | The problem as stated does not provide the initial number of bird families living near the mountain. To solve this, we need the original number of bird families. Let me ask my teacher for clarification.
+X0017 | The problem does not provide the total number of cookies you have, so it's impossible to determine how many bags of cookies you have. I need more information to solve this problem.   I will ask my teacher for clarificati
+X0022 | The problem does not provide enough information to determine the number of pages in the second chapter. I will ask the teacher for clarification.
+X0030 | The problem as stated does not provide enough information to determine the number of children who were on the bus before the stop. We need to know the total number of children on the bus after the stop to calculate the o
+X0031 | 問題中缺少必要的資訊，例如總共有多少片餅乾。我需要知道總數才能計算每個人吃了幾片餅乾。我將向老師請教。
+X0033 | The problem is missing some information, such as the initial number of friends playing video games. Without this, we cannot determine the total number of people. I will ask the teacher for clarification.
+X0034 | 問題中缺少了餅乾總共有多少片的資訊，因此我需要向老師確認。
+X0038 | The problem as stated does not provide the initial number of friends playing video games. To determine the total number of people, we need to know how many friends were there initially.   I will ask the teacher for the i
+X0042 | The problem does not provide enough information to determine the number of chairs at each table. I will ask the teacher for clarification.
+X0044 | 問題缺少必要的資訊，例如你總共有多少片餅乾。我需要這些資訊才能計算總共有多少袋餅乾。我將向老師詢問更多細節。
+X0045 | 我需要知道昨天這台機器一共做了多少件襯衫，才能計算它工作了多久。因此，我需要向老師詢問昨天這台機器一共做了多少件襯衫。
+X0048 | 問題缺少必要的資訊，例如總共有多少枝鉛筆。我需要這些資料才能計算每一排有幾枝鉛筆。我會向老師請教以取得更多細節。
+X0050 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We need to know either the total number of marbles given out or the number of marbles each boy received.   I wil
+X0055 | 問題中沒有提供麵包師傅最初有多少個蛋糕的資訊，因此無法計算還剩幾個蛋糕。我需要問老師這部分的資訊。
+X0056 | The problem does not provide the number of pieces of gum per package, so it is not possible to determine the total number of pieces of gum Robin has. I will ask the teacher for clarification.
+X0062 | 問題中沒有提供具體的「一群朋友」的人數，因此無法計算總命數。我需要知道朋友的數量才能得出答案。我會向老師詢問更多細節。
+X0063 | The problem is incomplete as it does not specify the number of friends. To determine the total number of lives, we need to know how many players were in the group. I will ask the teacher for clarification.
+X0079 | 答：題目已經很明了，實際上這問題不需要向老師問，而且題目裡已經提到了答案。  "阿宏用了 36 塊蓋一座塔，還剩下 59 - 36 = 23 塊積木。"
+X0119 | 問題中缺少了小潔有幾顆蘋果的資訊，我需要更多的資料才能解答這道題目。我會問老師這一點。
+X0124 | 題目中沒有提供具體的人數，因此無法計算總共有多少條命。我需要知道有多少位朋友才能進行計算。我會將問題傳送給老師以獲得更多資訊。
+X0126 | 問題中缺少了小潔擁有蘋果的數量，因此無法計算阿當比小潔多幾顆蘋果。我需要問老師小潔擁有多少蘋果。
+X0132 | 題目中沒有提供小潔擁有蘋果的數量，因此我需要更多資料才能回答這道題目。我會向老師詢問更多細節。
+X0133 | The problem does not provide information about how many apples Jackie has. To solve this, we need to know the number of apples Jackie has. Let me ask the teacher for clarification.
+X0140 | The problem as stated does not provide the total number of pages in the book, so it is not possible to determine how many days Frank took to finish the book. I need more information to solve this problem.   I will ask my
+X0143 | 我不知道如何計算昨天的工作時間。我需要老師的幫助。
+X0146 | The problem as stated doesn't provide enough information to determine how many boys Haley gave marbles to. We need to know the total number of marbles given out or another piece of information that can help us calculate 
+X0148 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. We need to know the number of weeks over which the total earnings of $133 were accumulated.   I will ask the te
+X0150 | The problem as stated does not provide enough information to determine how many apples Jackie has. I need more details, such as the total number of apples or the number of apples Adam has.   I will ask the teacher for cl
+X0155 | 題目中沒有提供足夠的資訊來確定小潔有幾顆蘋果。阿當比小潔多 3 顆蘋果，但我們不知道阿當有幾顆蘋果。因此，我需要向老師詢問更多細節。
+X0159 | The problem as stated does not provide the total number of pages in the book. Without this information, it is not possible to determine how many days Frank took to finish the book. I will need to ask the teacher for the 
+X0160 | 問題中缺少了餅乾總數的資訊，我需要知道總共有多少片餅乾才能計算每個人吃了多少片。我會向老師詢問這個資訊。
+X0163 | The problem as presented is incomplete and lacks the necessary information to determine the number of pencils placed in each row. Specifically, the total number of pencils is not mentioned.   To solve this problem, we ne
+X0164 | 我需要知道麵包師傅原本有幾個蛋糕，才能計算出還剩幾個。我會問老師。
+X0172 | The problem as stated does not provide enough information to determine how many bottle caps Danny had at first. I need more details to solve this problem.   I will ask the teacher for clarification.
+X0177 | 問題中缺少了麵包師傅原本有多少個蛋糕的資訊，因此無法計算出他還剩幾個蛋糕。我需要問老師才能得到更多細節。
+X0178 | 這題目缺少關鍵資訊，即每包口香糖有多少顆。因此，我需要問老師。
+X0179 | The problem as stated does not provide the initial number of bird families living near the mountain. Without this information, it is not possible to determine the total number of bird families after the new ones joined. 
+X0190 | The problem does not provide the total number of pages in the book, so I cannot determine how many days Frank took to finish it. I will ask the teacher for clarification.
+X0193 | 題目中沒有提供足夠的信息來解答小潔有幾顆蘋果。因此，我需要問老師更多細節。
+X0198 | 問題缺少必要的資訊，例如阿保原本有多少本書。我需要更多的資料才能解答這題。我會向老師詢問。
+X0203 | The problem as stated is incomplete and lacks the initial number of friends playing video games. Without that information, it's not possible to determine the total number of people. I will ask the teacher for clarificati
+X0207 | The problem as stated does not provide enough information to determine the number of pages in the second chapter. I need more details, such as the total number of pages in the book or the relationship between the chapter
+X0213 | 問題中缺乏足夠的信息來確定到站前公車上有多少個小朋友。因此，我需要向老師請教以獲取更多信息。
+X0214 | 問題中缺少必要的數據，例如總共有多少片餅乾。我需要向老師請教以獲得更多資訊。
+X0217 | The problem does not provide enough information to determine how much money Olivia had at first. I need more details, such as the amount of money she had left after shopping or any other relevant context.   I will ask th
+X0220 | 題目中沒有提供具體的人數，因此無法計算總共有多少條命。我需要知道這群朋友的人數才能進行計算。我會問老師這個問題。
+X0222 | 問題中缺少必要的信息，即小潔有多少顆蘋果。我需要向老師請教以獲得更多信息。
+X0227 | The problem as stated does not provide enough information to determine the number of children who were on the bus before the stop. I need more details to solve the problem.   I will ask my teacher for clarification.
+X0229 | The problem as stated does not provide the total number of cookies or any other relevant information to determine the number of bags. I will need more details to solve this.   I will ask my teacher for clarification.
+X0230 | 問題中缺少了阿保原本有多少本書的資訊，因此無法計算他還剩下多少本書。我需要向老師請教以獲取更多細節。
+X0241 | 問題缺乏足夠的資訊來計算總命數。例如，需要知道這群朋友的人數。我需要向老師確認更多細節。
+X0246 | 我需要更多的信息才能解答這個問題，例如昨天這台機器一共做了多少件襯衫。我會問老師。
+X0247 | 我需要更多信息才能解答這道題目。目前的資訊只提到搬來了 18 個鳥家族，但不知道原本山邊住著多少個鳥家族。我應該問老師這一點。
+X0254 | 問題中缺少了餅乾總共有多少片的資訊，因此無法計算每個人吃了幾片餅乾。我需要向老師確認這一點。
+X0255 | The problem as stated does not provide enough information to determine the initial number of bird families living near the mountain. Therefore, I need to ask the teacher for clarification or the missing information.
+X0260 | 題目中沒有提供足夠的信息来确定每一排有多少支鉛筆。因此，我需要更多的信息来解答这个问题。我将询问老师以获取更多信息。
+X0261 | 問題缺少必要的數據，例如總共有多少片餅乾。我需要這些資訊才能計算每個人吃了多少片餅乾。我會向老師請教。
+X0263 | The problem does not provide information about the number of apples Jackie has. I need to ask the teacher for clarification.
+X0268 | The problem as stated does not provide the total number of pages in the book. Without this information, it's not possible to determine how many days Frank took to finish the book. I need more details to solve this proble
+X0281 | The problem as stated does not provide enough information to determine the number of apples Jackie has. We know that Adam has 3 more apples than Jackie, but we do not know the exact number of apples Adam has.   To solve 
+X0282 | The problem as stated doesn't provide the initial number of bird families living near the mountain. Without that information, it is not possible to determine the total number of bird families after the 18 new ones joined
+X0291 | 我需要更多的信息才能解答這個問題，例如阿保原本有多少本書。我會問老師。
+X0312 | 我需要更多的信息来解答这个问题，比如小莉原本的钱和她花掉的钱之间的关系，或者是否有其他条件。我将询问老师。
+X0313 | The problem is missing key information, such as the initial number of friends playing video games. To solve this, I need to know how many friends were there at the beginning before the additional 3 friends came over.   I
+X0314 | 我需要更多的信息才能解答這道題目。例如，書的總頁數或者第二章與第一章的頁數關係。我應該問老師。
+X0316 | 問題中沒有提供餅乾總數，因此我需要更多的信息才能解答。我將向老師請教。
+X0319 | The problem as given lacks specific information about the total number of marbles Haley gave out or any other details that could help determine the number of boys. I need more information to solve this problem.   I will 
+X0328 | 我需要更多的資訊才能回答這個問題，例如每包口香糖有多少顆。我會問老師。
+X0335 | 我需要更多的信息才能解答這道題目，例如昨天這台機器一共做了多少件襯衫。我會問老師。
+X0339 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We need to know the total number of marbles Haley gave out to calculate the number of boys.   Therefore, I will 
+X0341 | The problem does not provide enough information to determine how much money Olivia had at first. I need more details, such as how much money she had left after spending or any other relevant information. I will ask my te
+X0344 | The problem as stated does not provide the initial number of cakes the baker had. Without this information, we cannot determine how many cakes the baker still has.   I will ask the teacher for clarification.
+X0347 | 我需要知道昨天這台機器一共做了多少件襯衫，才能計算它工作了幾分鐘。因此，我需要向老師詢問昨天這台機器做了多少件襯衫。
+X0349 | The problem does not provide enough information to determine the number of pages in the second chapter. I need more details, such as the total number of pages in the book or the number of pages in the second chapter.   I
+X0351 | The problem is missing information about how many apples Jackie has. I need to know the number of apples Jackie has to determine how many more apples Adam has.   I will ask the teacher for clarification.
+X0353 | The problem is incomplete as it does not provide the initial number of bird families living near the mountain. I will ask the teacher for clarification.
+X0358 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. We know that Haley gave 2 marbles to each boy, but the total number of marbles or the total number of boys is no
+X0377 | 問題中缺少具體的人數資訊，因此無法計算總共有多少條命。我需要知道這群朋友的人數才能進行計算。我將向老師詢問更多細節。
+X0380 | The problem does not provide enough information to determine the number of pages in the second chapter. I need more details about the book's total pages or the second chapter's page count.   I will ask my teacher for cla
+X0399 | 問題中沒有提供具體的人數，因此我需要更多的資訊才能解答。我會向老師請教。
+X0401 | The problem as stated does not provide the number of flowerbeds. Without that information, it is not possible to determine how many seeds were planted in each flowerbed. I need to know the number of flowerbeds to proceed
+X0413 | The problem as stated does not provide the number of friends, which is essential to calculate the total number of lives. I need to know how many friends were playing the game to determine the total number of lives.   I w
+X0418 | The problem does not provide the number of pieces per package for the gum or candy. To solve this, we would need additional information about how many pieces are in each package of gum.   I will ask the teacher for clari
+X0429 | The problem as stated does not provide enough information to determine how many boys Haley gave marbles to. I need more details, such as the total number of marbles Haley gave out or the number of marbles each boy receiv
+X0432 | The problem as stated does not provide enough information to determine the number of boys Haley gave marbles to. We need to know either the total number of marbles given out or the number of marbles each boy received.   
+X0433 | The problem does not provide enough information to determine how many apples Jackie has. We need more details, such as the total number of apples or the number of apples Adam has.   I will ask my teacher for further clar
+X0437 | 問題中缺少必要的資訊，無法計算出阿當比小潔多幾顆蘋果。我需要知道小潔有幾顆蘋果才能進行計算。因此，我會向老師詢問更多細節。
+X0447 | The problem as stated does not provide enough information to determine how many apples Jackie has. We need more details to solve the problem. I will ask my teacher for clarification.
+X0450 | The problem as stated does not provide the total number of crackers Matthew had, so it is impossible to determine how many crackers each person ate. I will ask the teacher for clarification.
+X0458 | 問題缺乏足夠的資訊，例如麵包師傅原本有幾個蛋糕。我需要更多數據才能解答這個問題。我會向老師請教。
+X0459 | 問題缺少必要的信息，無法解答。阿當比小潔多幾顆蘋果需要知道小潔擁有多少蘋果。我需要向老師請教。
+X0466 | 問題中缺少了昨天製作的襯衫數量，因此我需要向老師請教以獲得更多資訊。
+X0468 | 題目中沒有提供足夠的信息來計算每一排有幾枝鉛筆。我需要更多的信息，例如總共有多少枝鉛筆。我將詢問老師以獲得更多信息。
+X0469 | The problem as stated does not provide enough information to determine the number of pages in the second chapter. I need more details, such as the total number of pages in the book or the number of pages in the second ch
+X0475 | 我需要知道昨天這台機器一共做了多少件襯衫，才能計算出它昨天工作了幾分鐘。因此，我需要老師提供這個信息。
+X0479 | 我需要知道阿保原本有多少本書才能計算出他還剩幾本。我應該向老師請教。
+X0480 | The problem as stated does not provide enough information to determine how many bottle caps Danny had initially. We only know how many he lost, but not how many he had before losing them. To solve this, we would need add
+X0482 | The problem is incomplete because it does not provide the initial number of cakes the baker had. Without this information, it is impossible to determine how many cakes the baker still has. I need to ask the teacher for t
+X0487 | The problem as stated does not provide the number of players in the group. Therefore, I cannot determine the total number of lives without additional information.   I will ask the teacher for clarification.
+X0490 | 題目中只提到小華有 28 包口香糖，但沒有說明每包有多少顆。因此，我需要更多的資訊才能計算出總共有多少顆口香糖。我將向老師請教。
+X0493 | The problem does not provide the initial number of friends playing video games. To solve this, I need that information. I will ask the teacher for clarification.
+X0494 | 問題中沒有提供麵包師傅最初有多少個蛋糕的資訊，因此我需要更多的資料才能解答這個問題。我會問老師。
+X0497 | The problem is incomplete. I need more information to determine the total number of people. Let me ask my teacher for clarification.
+X0503 | 我需要更多信息才能解答這個問題。第二章的頁數與第一章的頁數之間的關係沒有說明。我應該問老師。
+X0510 | 問題中沒有提供朋友的人數，因此無法計算總共有多少條命。我需要知道具體的人數才能進行計算。我會向老師請教以獲得更多信息。
+X0516 | 問題中缺少了初始的蛋糕數量，因此我無法直接計算出還剩下的蛋糕數量。我需要知道麵包師傅原本有幾個蛋糕才能解答這道題目。我會向老師請教這一點。
+X0517 | The problem as stated does not provide enough information to determine the number of pages in the second chapter. I need more details, such as the total number of pages in the book or any other relevant information about
+X0526 | The problem as stated is incomplete because it does not specify the number of weeks over which Lewis earns $133. Without this information, it's not possible to determine how much he earns each week. I will ask the teache
+X0531 | The problem does not provide information about the initial number of blocks Randy had. To determine how many blocks are left, we need to know the starting number of blocks. I will ask the teacher for clarification.
+X0534 | The problem does not provide the initial number of bird families living near the mountain. I need more information to solve this. I will ask the teacher for clarification.
+X0541 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. We would need to know either the number of weeks or additional details about his earnings.   I will ask my teac
+X0542 | 問題中缺少了餅乾總數的資訊，因此我需要向老師詢問更多細節。
+X0543 | The problem does not provide enough information to determine the number of pages in the second chapter. I need more details, such as the total number of pages in the book or the relationship between the chapters.   I wil
+X0544 | The problem does not provide enough information to determine the number of children on the bus before the stop. I need more details, such as the total number of children after the stop.   I will ask the teacher for clari
+X0545 | 問題中缺乏足夠的資訊來解答。我需要知道到站前公車上原本有多少個小朋友。我會問老師這個問題。
+X0547 | The problem as stated does not provide enough information to determine how many bags of cans Tiffany had on Monday. We only know that she found 4 more bags the next day, but we don't know the total number of bags she had
+X0549 | The problem as stated does not provide the initial number of bird families living near the mountain. To solve this, we would need that information. I will ask the teacher for clarification.
+X0556 | 我需要更多信息才能解答這道題目。例如，小莉原本的錢是否與她花掉的錢有特定的關係，或者是否有其他條件。我會向老師請教。
+X0559 | The problem as stated does not provide the initial number of books Paul had. Without that information, it is not possible to determine how many books he has left. I need to ask the teacher for the initial number of books
+X0566 | The problem is missing crucial information, such as the total number of bags Tiffany had after finding the additional 4 bags. Without this, I cannot determine how many bags she had on Monday.   I will ask the teacher for
+X0570 | 問題中缺少小潔有多少顆蘋果的資訊，因此我需要向老師請教。
+X0572 | 問題中沒有提供麵包師傅原本有多少個蛋糕的資訊，因此無法計算還剩幾個蛋糕。我需要問老師確認是否有遺漏的資料。
+X0574 | The problem does not provide enough information to determine the number of children on the bus before the stop. I need to know the total number of children on the bus after the stop to calculate the original number. I wi
+X0594 | The problem does not provide the number of players in the group. Without this information, it is impossible to calculate the total number of lives. I will ask the teacher for clarification.
+X0595 | The problem does not provide the number of flowerbeds. I need to ask my teacher for clarification.
+X0601 | 問題缺少必要的資訊，例如總共有多少片餅乾。我需要問老師澄清這一點。
+X0606 | The problem as presented does not provide enough information to determine the number of boys Haley gave marbles to. I need more details, such as the total number of marbles given out or the number of marbles each boy rec
+X0609 | The problem does not provide the initial number of blocks Randy had before building the tower. Therefore, I need to ask the teacher for the missing information.
+X0611 | The problem does not provide the number of apples Jackie has, so I cannot determine how many more apples Adam has than Jackie. I will ask my teacher for clarification.
+X0624 | 問題中沒有提供小潔有多少顆蘋果，因此我需要更多資訊才能解答。我會向老師請教。
+X0626 | 問題中沒有提供初始的鳥家族數量，因此我需要更多信息才能解答這道題目。我將向老師請教。
+X0627 | The problem is missing information. I need to know how many books Paul originally had. I will ask the teacher for clarification.
+X0628 | The problem as stated does not provide enough information to determine how much money Olivia had at first. We would need additional context or details, such as how much money she had left after her purchase or any other 
+X0639 | 這題缺少一些關鍵信息，例如到站前公車上原本有多少個小朋友。我需要更多的數據才能解答這道題。我會問老師。
+X0644 | 問題不完整，缺少必要資訊。我需要知道總共有多少片餅乾才能計算出袋數。我將向老師詢問更多細節。
+X0656 | 問題中缺少必要的信息，即小潔有多少顆蘋果。我需要更多的資料才能解答這道題目。我會向老師請教。
+X0668 | The problem as presented does not provide enough information to determine how many bottle caps Danny had at first. Additional details, such as the number of bottle caps he has now or any other relevant information, would
+X0671 | The problem as stated does not provide enough information to determine how many more apples Adam has than Jackie. We need to know how many apples Jackie has. I will ask the teacher for clarification.
+X0675 | The problem does not provide the number of pieces of gum in each package, so I cannot determine the total number of pieces of gum Robin has. I will ask the teacher for clarification.
+X0680 | The problem as stated does not provide the number of players in the group. Without this information, it is not possible to determine the total number of lives. I will ask the teacher for clarification.
+X0684 | The problem as stated does not provide the total number of cookies, so it is not possible to determine the number of bags. I will need more information to solve this problem. I will ask my teacher for clarification.
+X0687 | The problem does not provide enough information to determine the number of pages in the second chapter. I need more details about the total number of pages or the relationship between the chapters.   I will ask my teache
+X0688 | 問題缺乏必要的信息，例如麵包師傅最初有多少個蛋糕。我需要這些信息才能解答這題。我將向老師請教。
+X0689 | 問題中缺少了總共有多少片餅乾的資訊，因此我無法計算每個人吃了幾片餅乾。我需要老師幫忙澄清這一點。
+X0702 | The problem provides insufficient information to determine the initial number of bird families living near the mountain. Without knowing the original number, it is not possible to calculate the total number of bird famil
+X0710 | 問題中缺少必要的數據，例如總共有多少片餅乾。我需要這些資訊才能計算出每個人吃了幾片餅乾。我會向老師尋求幫助以獲得更多細節。
+X0711 | 問題不完整，缺少必要的信息。我需要知道總共有多少片餅乾才能計算出袋數。我會向老師請教以獲取更多細節。
+X0712 | The problem as stated does not provide the total number of pages in the book. Without this information, it is not possible to determine how many days Frank took to finish the book. I will ask the teacher for clarificatio
+X0717 | 問題中沒有提供麵包師傅原本有幾個蛋糕的數量，因此我需要進一步的資訊才能解答。我會向老師詢問這一點。
+X0719 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. We need to know the number of weeks over which the total earnings of $133 were accumulated.   I will ask the te
+X0724 | 問題中缺少關鍵資訊，例如麵包師傅原本有多少個蛋糕。我需要這些資訊才能計算剩下的蛋糕數量。我將向老師詢問這一點。
+X0733 | 問題缺少必要的資訊，例如朋友的人數。我需要知道具體有多少人，才能計算總共有多少條命。我會去問老師。
+X0741 | The problem does not provide the number of flowerbeds, so I need to ask the teacher for that information.
+X0744 | The problem as stated does not provide the number of flowerbeds, which is necessary to determine how many seeds were planted in each. I need to know the number of flowerbeds to calculate the answer.   I will ask the teac
+X0771 | The problem is incomplete and lacks the initial number of books Paul had. I need to know how many books Paul originally had to determine how many are left after selling 78. I will ask my teacher for clarification.
+X0779 | The problem is incomplete because it does not provide the initial number of cakes the baker had. Without that information, we cannot determine how many cakes the baker still has. I need to ask the teacher for the missing
+X0780 | 我需要知道昨天這台機器做了多少件襯衫，才能計算出昨天它工作了幾分鐘。我現在沒有這個信息，所以我要向老師詢問。
+X0798 | The problem is missing information about how many apples Jackie has. I need to know the number of apples Jackie has to determine how many more apples Adam has than Jackie.   I will ask the teacher for clarification.
+X0799 | The problem as stated is incomplete. There is no information provided about the total number of marbles Haley gave out or any other relevant details. I need more information to solve this problem.   I will ask the teache
+X0800 | 問題中缺少了餅乾總數的資訊，因此我需要問老師。
+X0801 | 缺少必要的資訊，例如原本山邊住著多少個鳥家族。我需要老師協助解答。
+X0816 | The problem as stated does not provide sufficient information to determine how many cakes the baker still has. We would need to know the original number of cakes the baker had before selling 137 to his friend.   Therefor
+X0818 | 我需要知道山邊原本住著多少個鳥家族才能算出現在的總數。我會向老師請教。
+X0826 | The problem is incomplete because it does not specify the number of friends playing the video game. I need more information to calculate the total number of lives.   I will ask the teacher for clarification.
+X0827 | The problem as stated does not provide the initial number of bird families living near the mountain. To solve this, we need the initial count of bird families. I will ask my teacher for the missing information.
+X0829 | 題目中只提到了小華有 28 包口香糖，但沒有提供每包口香糖有多少顆。因此，我需要更多資訊才能計算出小華總共有多少顆口香糖。我會向老師請教以獲得更多信息。
+X0834 | 問題中沒有提供最初山邊住著多少個鳥家族的數字，因此我需要進一步的資訊才能解答。我會向老師請教。
+X0836 | 問題中沒有提供有關朋友人數的資訊，因此無法計算總命數。我需要向老師詢問更多細節。
+X0839 | The problem is missing some information, specifically the original number of bird families. I need to ask the teacher for clarification.
+X0842 | The problem as stated does not provide enough information to determine how many apples Jackie has. We need more details, such as the total number of apples Adam has or the total number of apples both Adam and Jackie have
+X0844 | 我需要更多信息才能解答這個問題。目前不知道山邊原本有多少個鳥家族。我應該向老師詢問。
+X0846 | The problem as stated does not provide enough information to determine the number of pages in the second chapter. I need more details, such as the total number of pages in the book or the number of pages in the second ch
+X0850 | The problem as stated does not provide enough information to determine how much money Lewis earns each week. We need to know the number of weeks over which the total earnings of $133 were accumulated. Without this inform
+X0852 | 我需要更多信息才能解答這道問題，例如小莉原本有多少錢的提示或她花了錢後剩下多少錢。我會向老師請教。
+X0858 | The problem as stated does not provide enough information to determine how many blocks are left. I need to know the initial number of blocks Randy had before building the tower.   I will ask the teacher for clarification
+X0861 | 我需要知道昨天這台機器一共做了多少件襯衫，才能計算出它昨天工作了幾分鐘。然而，我目前沒有這方面的資訊。我將向老師提問以獲得更多細節。
+X0872 | 題目中只提供了小華有 28 包口香糖，但沒有提到每包口香糖有多少顆。因此，我需要更多的資訊才能計算出總共有多少顆口香糖。我會向老師請教。
+X0877 | 問題資料不完整，缺少餅乾總數。我需要向老師請教。
+X0879 | The problem does not provide sufficient information to determine the number of pages in the second chapter. I need more details about the total number of pages in the book or the length of the second chapter.   I will as

@@ -1,0 +1,172 @@
+[
+ {
+  "id": "L0",
+  "zh": "",
+  "en": ""
+ },
+ {
+  "id": "N1",
+  "zh": "這位學生的生日在三月。",
+  "en": "This student's birthday is in March."
+ },
+ {
+  "id": "N2",
+  "zh": "這位學生的座號是 12 號。",
+  "en": "This student's seat number in class is 12."
+ },
+ {
+  "id": "N3",
+  "zh": "這位學生每天搭公車上學。",
+  "en": "This student takes the bus to school every day."
+ },
+ {
+  "id": "H-0-1",
+  "zh": "這位學生個性外向。",
+  "en": "This student is outgoing."
+ },
+ {
+  "id": "H-0-2",
+  "zh": "這位學生個性活潑。",
+  "en": "This student is lively."
+ },
+ {
+  "id": "H-0-3",
+  "zh": "這位學生個性開朗。",
+  "en": "This student is cheerful."
+ },
+ {
+  "id": "H-T-1",
+  "zh": "這位學生很喜歡自己的老師。",
+  "en": "This student really likes their teacher."
+ },
+ {
+  "id": "H-T-2",
+  "zh": "這位學生覺得老師很親切。",
+  "en": "This student thinks their teacher is kind."
+ },
+ {
+  "id": "H-T-3",
+  "zh": "這位學生很信任自己的老師。",
+  "en": "This student trusts their teacher a lot."
+ },
+ {
+  "id": "H-TA-1",
+  "zh": "這位學生常常問老師問題。",
+  "en": "This student often asks their teacher questions."
+ },
+ {
+  "id": "H-TA-2",
+  "zh": "這位學生很習慣向老師提問。",
+  "en": "This student is used to asking their teacher questions."
+ },
+ {
+  "id": "H-TA-3",
+  "zh": "這位學生很常向老師發問。",
+  "en": "This student frequently asks their teacher questions."
+ },
+ {
+  "id": "H-TAC-1",
+  "zh": "做數學練習遇到不會的題目時，這位學生會問老師。",
+  "en": "When this student comes across a problem they can't solve in math practice, they ask their teacher."
+ },
+ {
+  "id": "H-TAC-2",
+  "zh": "寫數學題碰到不會寫的題目時，這位學生會向老師提問。",
+  "en": "When this student runs into a math problem they can't do, they ask their teacher about it."
+ },
+ {
+  "id": "H-TAC-3",
+  "zh": "數學練習中有題目不會做的時候，這位學生會去問老師。",
+  "en": "When there is a problem this student can't do in math practice, they go and ask their teacher."
+ },
+ {
+  "id": "H-TACT-1",
+  "zh": "在這次數學練習中，遇到不會的題目時，這位學生會問老師。",
+  "en": "In this math practice, when this student comes across a problem they can't solve, they ask their teacher."
+ },
+ {
+  "id": "H-TACT-2",
+  "zh": "這次寫數學題時，碰到不會寫的題目，這位學生會向老師提問。",
+  "en": "This time, when this student runs into a math problem they can't do, they ask their teacher about it."
+ },
+ {
+  "id": "H-TACT-3",
+  "zh": "這一次的數學練習裡，有題目不會做的時候，這位學生會去問老師。",
+  "en": "In this round of math practice, when there is a problem this student can't do, they go and ask their teacher."
+ },
+ {
+  "id": "L-0-1",
+  "zh": "這位學生個性害羞。",
+  "en": "This student is shy."
+ },
+ {
+  "id": "L-0-2",
+  "zh": "這位學生個性內向。",
+  "en": "This student is introverted."
+ },
+ {
+  "id": "L-0-3",
+  "zh": "這位學生個性文靜。",
+  "en": "This student is quiet by nature."
+ },
+ {
+  "id": "L-T-1",
+  "zh": "這位學生很怕自己的老師。",
+  "en": "This student is afraid of their teacher."
+ },
+ {
+  "id": "L-T-2",
+  "zh": "這位學生覺得老師很嚴格。",
+  "en": "This student thinks their teacher is strict."
+ },
+ {
+  "id": "L-T-3",
+  "zh": "這位學生和老師不太熟。",
+  "en": "This student is not close to their teacher."
+ },
+ {
+  "id": "L-TA-1",
+  "zh": "這位學生很少問老師問題。",
+  "en": "This student rarely asks their teacher questions."
+ },
+ {
+  "id": "L-TA-2",
+  "zh": "這位學生不習慣向老師提問。",
+  "en": "This student is not used to asking their teacher questions."
+ },
+ {
+  "id": "L-TA-3",
+  "zh": "這位學生幾乎不向老師發問。",
+  "en": "This student almost never asks their teacher questions."
+ },
+ {
+  "id": "L-TAC-1",
+  "zh": "做數學練習遇到不會的題目時，這位學生不會問老師。",
+  "en": "When this student comes across a problem they can't solve in math practice, they don't ask their teacher."
+ },
+ {
+  "id": "L-TAC-2",
+  "zh": "寫數學題碰到不會寫的題目時，這位學生不會向老師提問。",
+  "en": "When this student runs into a math problem they can't do, they don't ask their teacher about it."
+ },
+ {
+  "id": "L-TAC-3",
+  "zh": "數學練習中有題目不會做的時候，這位學生不會去問老師。",
+  "en": "When there is a problem this student can't do in math practice, they don't go and ask their teacher."
+ },
+ {
+  "id": "L-TACT-1",
+  "zh": "在這次數學練習中，遇到不會的題目時，這位學生不會問老師。",
+  "en": "In this math practice, when this student comes across a problem they can't solve, they don't ask their teacher."
+ },
+ {
+  "id": "L-TACT-2",
+  "zh": "這次寫數學題時，碰到不會寫的題目，這位學生不會向老師提問。",
+  "en": "This time, when this student runs into a math problem they can't do, they don't ask their teacher about it."
+ },
+ {
+  "id": "L-TACT-3",
+  "zh": "這一次的數學練習裡，有題目不會做的時候，這位學生不會去問老師。",
+  "en": "In this round of math practice, when there is a problem this student can't do, they don't go and ask their teacher."
+ }
+]

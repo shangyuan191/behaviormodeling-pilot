@@ -1,0 +1,274 @@
+[
+ {
+  "id": "L0",
+  "direction": "none",
+  "level": "L0",
+  "variant": 0,
+  "zh": "",
+  "en": ""
+ },
+ {
+  "id": "N1",
+  "direction": "neutral",
+  "level": "neutral",
+  "variant": 1,
+  "zh": "你的生日在三月。",
+  "en": "Your birthday is in March."
+ },
+ {
+  "id": "N2",
+  "direction": "neutral",
+  "level": "neutral",
+  "variant": 2,
+  "zh": "你的座號是 12 號。",
+  "en": "Your seat number in class is 12."
+ },
+ {
+  "id": "N3",
+  "direction": "neutral",
+  "level": "neutral",
+  "variant": 3,
+  "zh": "你每天搭公車上學。",
+  "en": "You take the bus to school every day."
+ },
+ {
+  "id": "H-0-1",
+  "direction": "high",
+  "level": "0",
+  "variant": 1,
+  "zh": "你個性外向。",
+  "en": "You are outgoing."
+ },
+ {
+  "id": "H-0-2",
+  "direction": "high",
+  "level": "0",
+  "variant": 2,
+  "zh": "你個性活潑。",
+  "en": "You are lively."
+ },
+ {
+  "id": "H-0-3",
+  "direction": "high",
+  "level": "0",
+  "variant": 3,
+  "zh": "你個性開朗。",
+  "en": "You are cheerful."
+ },
+ {
+  "id": "H-T-1",
+  "direction": "high",
+  "level": "T",
+  "variant": 1,
+  "zh": "你很喜歡你的老師。",
+  "en": "You really like your teacher."
+ },
+ {
+  "id": "H-T-2",
+  "direction": "high",
+  "level": "T",
+  "variant": 2,
+  "zh": "你覺得老師很親切。",
+  "en": "You think your teacher is kind."
+ },
+ {
+  "id": "H-T-3",
+  "direction": "high",
+  "level": "T",
+  "variant": 3,
+  "zh": "你很信任你的老師。",
+  "en": "You trust your teacher a lot."
+ },
+ {
+  "id": "H-TA-1",
+  "direction": "high",
+  "level": "TA",
+  "variant": 1,
+  "zh": "你常常問老師問題。",
+  "en": "You often ask your teacher questions."
+ },
+ {
+  "id": "H-TA-2",
+  "direction": "high",
+  "level": "TA",
+  "variant": 2,
+  "zh": "你很習慣向老師提問。",
+  "en": "You are used to asking your teacher questions."
+ },
+ {
+  "id": "H-TA-3",
+  "direction": "high",
+  "level": "TA",
+  "variant": 3,
+  "zh": "你很常向老師發問。",
+  "en": "You frequently ask your teacher questions."
+ },
+ {
+  "id": "H-TAC-1",
+  "direction": "high",
+  "level": "TAC",
+  "variant": 1,
+  "zh": "做數學練習遇到不會的題目時，你會問老師。",
+  "en": "When you come across a problem you can't solve in math practice, you ask your teacher."
+ },
+ {
+  "id": "H-TAC-2",
+  "direction": "high",
+  "level": "TAC",
+  "variant": 2,
+  "zh": "寫數學題碰到不會寫的題目時，你會向老師提問。",
+  "en": "When you run into a math problem you can't do, you ask your teacher about it."
+ },
+ {
+  "id": "H-TAC-3",
+  "direction": "high",
+  "level": "TAC",
+  "variant": 3,
+  "zh": "數學練習中有題目不會做的時候，你會去問老師。",
+  "en": "When there is a problem you can't do in math practice, you go and ask your teacher."
+ },
+ {
+  "id": "H-TACT-1",
+  "direction": "high",
+  "level": "TACT",
+  "variant": 1,
+  "zh": "在這次數學練習中，遇到不會的題目時，你會問老師。",
+  "en": "In this math practice, when you come across a problem you can't solve, you ask your teacher."
+ },
+ {
+  "id": "H-TACT-2",
+  "direction": "high",
+  "level": "TACT",
+  "variant": 2,
+  "zh": "這次寫數學題時，碰到不會寫的題目，你會向老師提問。",
+  "en": "This time, when you run into a math problem you can't do, you ask your teacher about it."
+ },
+ {
+  "id": "H-TACT-3",
+  "direction": "high",
+  "level": "TACT",
+  "variant": 3,
+  "zh": "這一次的數學練習裡，有題目不會做的時候，你會去問老師。",
+  "en": "In this round of math practice, when there is a problem you can't do, you go and ask your teacher."
+ },
+ {
+  "id": "L-0-1",
+  "direction": "low",
+  "level": "0",
+  "variant": 1,
+  "zh": "你個性害羞。",
+  "en": "You are shy."
+ },
+ {
+  "id": "L-0-2",
+  "direction": "low",
+  "level": "0",
+  "variant": 2,
+  "zh": "你個性內向。",
+  "en": "You are introverted."
+ },
+ {
+  "id": "L-0-3",
+  "direction": "low",
+  "level": "0",
+  "variant": 3,
+  "zh": "你個性文靜。",
+  "en": "You are quiet by nature."
+ },
+ {
+  "id": "L-T-1",
+  "direction": "low",
+  "level": "T",
+  "variant": 1,
+  "zh": "你很怕你的老師。",
+  "en": "You are afraid of your teacher."
+ },
+ {
+  "id": "L-T-2",
+  "direction": "low",
+  "level": "T",
+  "variant": 2,
+  "zh": "你覺得老師很嚴格。",
+  "en": "You think your teacher is strict."
+ },
+ {
+  "id": "L-T-3",
+  "direction": "low",
+  "level": "T",
+  "variant": 3,
+  "zh": "你和老師不太熟。",
+  "en": "You are not close to your teacher."
+ },
+ {
+  "id": "L-TA-1",
+  "direction": "low",
+  "level": "TA",
+  "variant": 1,
+  "zh": "你很少問老師問題。",
+  "en": "You rarely ask your teacher questions."
+ },
+ {
+  "id": "L-TA-2",
+  "direction": "low",
+  "level": "TA",
+  "variant": 2,
+  "zh": "你不習慣向老師提問。",
+  "en": "You are not used to asking your teacher questions."
+ },
+ {
+  "id": "L-TA-3",
+  "direction": "low",
+  "level": "TA",
+  "variant": 3,
+  "zh": "你幾乎不向老師發問。",
+  "en": "You almost never ask your teacher questions."
+ },
+ {
+  "id": "L-TAC-1",
+  "direction": "low",
+  "level": "TAC",
+  "variant": 1,
+  "zh": "做數學練習遇到不會的題目時，你不會問老師。",
+  "en": "When you come across a problem you can't solve in math practice, you don't ask your teacher."
+ },
+ {
+  "id": "L-TAC-2",
+  "direction": "low",
+  "level": "TAC",
+  "variant": 2,
+  "zh": "寫數學題碰到不會寫的題目時，你不會向老師提問。",
+  "en": "When you run into a math problem you can't do, you don't ask your teacher about it."
+ },
+ {
+  "id": "L-TAC-3",
+  "direction": "low",
+  "level": "TAC",
+  "variant": 3,
+  "zh": "數學練習中有題目不會做的時候，你不會去問老師。",
+  "en": "When there is a problem you can't do in math practice, you don't go and ask your teacher."
+ },
+ {
+  "id": "L-TACT-1",
+  "direction": "low",
+  "level": "TACT",
+  "variant": 1,
+  "zh": "在這次數學練習中，遇到不會的題目時，你不會問老師。",
+  "en": "In this math practice, when you come across a problem you can't solve, you don't ask your teacher."
+ },
+ {
+  "id": "L-TACT-2",
+  "direction": "low",
+  "level": "TACT",
+  "variant": 2,
+  "zh": "這次寫數學題時，碰到不會寫的題目，你不會向老師提問。",
+  "en": "This time, when you run into a math problem you can't do, you don't ask your teacher about it."
+ },
+ {
+  "id": "L-TACT-3",
+  "direction": "low",
+  "level": "TACT",
+  "variant": 3,
+  "zh": "這一次的數學練習裡，有題目不會做的時候，你不會去問老師。",
+  "en": "In this round of math practice, when there is a problem you can't do, you don't go and ask your teacher."
+ }
+]
