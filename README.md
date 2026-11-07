@@ -75,7 +75,7 @@ python -I run_caps.py   --model Qwen/Qwen3-8B-FP8 --base-url $URL --no-think --r
 
 ```bash
 python judge/code_asks.py          # 求助內容分類（工具性 vs 執行性）
-python judge/code_text_only.py     # Step 1 只回文字的分類（人工修正在 judge/text_only_overrides.json）
+(cd judge && python code_text_only.py)   # 須在 judge/ 內執行；Step 1 只回文字的分類（人工修正在 judge/text_only_overrides.json）
 python judge/apply_text_codes.py   # 合併成「有效求助率」
 python code_caps_text.py && python code_step1_text.py         # CAPS／工具名稱檢查的文字編碼
 python analyze_round2.py > results/round2_summary.txt
