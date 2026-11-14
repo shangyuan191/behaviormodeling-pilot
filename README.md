@@ -81,6 +81,8 @@ python code_caps_text.py && python code_step1_text.py         # CAPS／工具名
 python analyze_round2.py > results/round2_summary.txt
 python analyze_stats.py  > results/stats_summary.txt
 python analyze_toolname.py > results/toolname_summary.txt
+python analyze_lowability.py > results/lowability_summary.txt        # 11/13 補跑：低求助 × 只學過加減（報告 5.11）
+python analyze_stats_lowability.py > results/stats_lowability.txt
 python report_figures.py && python report_figures_round2.py
 ```
 

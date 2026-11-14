@@ -62,6 +62,7 @@ def main():
     ap.add_argument("--personas", help="只跑這些 persona id（逗號分隔），例如補 L0 的樣本")
     ap.add_argument("--rep-start", type=int, default=0, help="rep 編號從這裡開始（補樣本時避免和既有 key 重複）")
     ap.add_argument("--out", help="覆寫輸出檔路徑")
+    ap.add_argument("--needs", help="覆寫題型（逗號分隔），例如 11/13 補跑低求助 × 只學過加減：--direction low --needs ability")
     args = ap.parse_args()
 
     first_base = None
@@ -103,7 +104,7 @@ def main():
     done = {json.loads(l)["key"] for l in out.open()} if out.exists() else set()
 
     jobs = [(p, it, need, lang, rep) for p, it, need, lang, rep in itertools.product(
-        personas, items, NEEDS[args.direction], ["en", "zh"], range(args.rep_start, args.reps))
+        personas, items, args.needs.split(",") if args.needs else NEEDS[args.direction], ["en", "zh"], range(args.rep_start, args.reps))
         if f"{p['id']}|{it['id']}|{need}|{lang}|{rep}" not in done]
     random.Random(0).shuffle(jobs)
     print(f"{len(personas)} personas, {len(jobs)} episodes to run ({len(done)} already done)", flush=True)
