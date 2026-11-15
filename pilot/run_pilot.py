@@ -202,7 +202,7 @@ class OpenAICompatible:
                 args = json.loads(call["function"]["arguments"] or "{}")
             except json.JSONDecodeError:
                 args = {"_unparsed": call["function"]["arguments"]}
-            if not isinstance(args, dict):  # 11/3：Granite 偶爾把 arguments 寫成字串或清單，之後 .get() 會崩潰
+            if not isinstance(args, dict):  # Granite 偶爾把 arguments 寫成字串或清單，之後 .get() 會崩潰
                 args = {"_unparsed": args}
             return call["function"]["name"], args, text, raw
         return None, {}, text, raw

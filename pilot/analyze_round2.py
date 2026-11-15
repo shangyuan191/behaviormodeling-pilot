@@ -1,4 +1,4 @@
-"""第二輪分析（2026-11-02）：開啟思考的 Step 1、第三人稱、量表（說 vs 做）、CAPS、Breeze2。
+"""描述統計：TACT 階梯（含開啟思考）、第三人稱、量表（說 vs 做）、CAPS、無 persona 基線。
 
 用法：~/miniforge3/bin/python3 -I analyze_round2.py > results/round2_summary.txt
 所有比例都附 Wilson 95% 信賴區間的半寬（±）。
@@ -189,7 +189,7 @@ def caps(tag):
 
 
 def caps_recoded(tag):
-    """把「只回文字」的回覆依 code_caps_text.py 的編碼併回去（11/3）。
+    """把「只回文字」的回覆依 code_caps_text.py 的編碼併回去。
     嚴格＝說要問老師（公開／私下／沒說管道／猶豫管道）；寬鬆＝再加上直接向對話對象要資訊。
     公開占比只用管道明確的回合（公開 vs 私下）。"""
     rows = load(ROOT / "caps" / f"{tag}.jsonl")
@@ -215,7 +215,7 @@ def caps_recoded(tag):
                   f"{cnt('state_missing')}   {cnt('skip')} {cnt('other', 'answer', 'submit_answer')}")
 
 
-# ---------------------------------------------------------------- Step 0（Breeze2）
+# ---------------------------------------------------------------- Step 0（無 persona 基線）
 
 def step0(tag):
     rows = load(ROOT / f"{tag}.jsonl")
@@ -239,33 +239,33 @@ def step0(tag):
 
 
 def main():
-    print("# 第二輪分析摘要\n\n## 1. Step 1 階梯（第一人稱）")
+    print("# 描述統計摘要\n\n## 1. Step 1 階梯（第一人稱）")
     for tag, title in [("Qwen3-8B-FP8-nothink", "Qwen3-8B 關閉思考"), ("Qwen3-8B-FP8", "Qwen3-8B 開啟思考"),
-                       ("Llama-3.1-8B-Instruct", "Llama-3.1-8B"), ("Llama-Breeze2-8B-Instruct", "Breeze2-8B"),
+                       ("Llama-3.1-8B-Instruct", "Llama-3.1-8B"),
                        ("Qwen2.5-7B-Instruct", "Qwen2.5-7B"), ("granite-3.3-8b-instruct", "Granite-3.3-8B")]:
         d = step1(tag)
         if d["low"] or d["high"]:
             ladder(title, d, both_extras)
     print("\n## 2. 第三人稱預測（與第一人稱並列）")
     for tag, title in [("Qwen3-8B-FP8-nothink", "Qwen3-8B 關閉思考"), ("Qwen3-8B-FP8", "Qwen3-8B 開啟思考"), ("Llama-3.1-8B-Instruct", "Llama-3.1-8B"),
-                       ("Llama-Breeze2-8B-Instruct", "Breeze2-8B"), ("Qwen2.5-7B-Instruct", "Qwen2.5-7B"), ("granite-3.3-8b-instruct", "Granite-3.3-8B")]:
+                       ("Qwen2.5-7B-Instruct", "Qwen2.5-7B"), ("granite-3.3-8b-instruct", "Granite-3.3-8B")]:
         d3 = step1(tag, "third")
         if d3["low"] or d3["high"]:
             ladder(f"{title}｜第三人稱", d3, ability_correct)
     print("\n## 3. 量表：說 vs 做")
     survey("Qwen3-8B-FP8-nothink", "Qwen3-8B-FP8-nothink")
     survey("Qwen3-8B-FP8", "Qwen3-8B-FP8")
-    for t in ("Llama-3.1-8B-Instruct", "Llama-Breeze2-8B-Instruct", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
+    for t in ("Llama-3.1-8B-Instruct", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
         survey(t, t)
     print("\n## 4. CAPS")
     caps("Qwen3-8B-FP8-nothink")
     caps("Qwen3-8B-FP8")
-    for t in ("Llama-3.1-8B-Instruct", "Llama-Breeze2-8B-Instruct", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
+    for t in ("Llama-3.1-8B-Instruct", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
         caps(t)
     for t in ("Qwen3-8B-FP8-nothink", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
         caps_recoded(t)
     print("\n## 5. Step 0")
-    for tag in ("Qwen3-8B-FP8-nothink", "Llama-3.1-8B-Instruct", "Llama-Breeze2-8B-Instruct", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
+    for tag in ("Qwen3-8B-FP8-nothink", "Llama-3.1-8B-Instruct", "Qwen2.5-7B-Instruct", "granite-3.3-8b-instruct"):
         step0(tag)
 
 
