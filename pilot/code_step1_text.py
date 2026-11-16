@@ -29,7 +29,8 @@ from pathlib import Path
 from analyze_toolname import COLS, LEVELS, col_of, load, trend
 
 ROOT = Path(__file__).resolve().parent / "results"
-MODELS = [("Qwen3-8B-FP8-nothink", "Qwen3 關閉思考"), ("Llama-3.1-8B-Instruct", "Llama-3.1")]
+MODELS = [("Qwen3-8B-FP8-nothink", "Qwen3 關閉思考"), ("Llama-3.1-8B-Instruct", "Llama-3.1"),
+          ("Qwen3-8B-FP8", "Qwen3 開啟思考"), ("Qwen2.5-7B-Instruct", "Qwen2.5"), ("granite-3.3-8b-instruct", "Granite-3.3")]  # 後三個：11/16 補跑
 TOOLS = [("ask_teacher", "ask_teacher（原版）"), ("ask_for_help", "ask_for_help（不提老師）"),
          ("raise_hand_neutral", "raise_hand（中性說明）")]
 

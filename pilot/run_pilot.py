@@ -13,6 +13,8 @@ ask_teacher 由規則式老師回覆：缺條件題回答缺的那個數字，�
 """
 import argparse
 import itertools
+import threading
+from concurrent.futures import ThreadPoolExecutor
 import json
 import os
 import random
@@ -271,6 +273,7 @@ def main():
     ap.add_argument("--rpm", type=float, default=12)
     ap.add_argument("--daily-cap", type=int, default=480)
     ap.add_argument("--limit", type=int, default=None, help="只跑前幾個 episode（試跑用）")
+    ap.add_argument("--workers", type=int, default=1, help="本機 vLLM 時同時送幾題（Gemini 一律逐題，受速率限制）")
     args = ap.parse_args()
 
     if args.help_mode == "text":
@@ -293,22 +296,30 @@ def main():
     else:
         backend = Gemini(args.model, args.rpm, args.daily_cap, ROOT / "results" / f"{tag}.usage.json")
 
-    n = 0
-    for it, need, lang, rep in jobs:
+    todo = [j for j in jobs if f"{j[0]['id']}|{j[1]}|{j[2]}|{j[3]}" not in done]  # 跳過已完成的 key
+    if args.limit is not None:
+        todo = todo[:args.limit]
+    lock, n = threading.Lock(), [0]
+
+    def work(job):
+        it, need, lang, rep = job
         key = f"{it['id']}|{need}|{lang}|{rep}"
-        if key in done:
-            continue
-        if args.limit is not None and n >= args.limit:
-            break
         result = run_episode(backend, it, need, lang, args.help_mode)
         record = {"key": key, "model": tag, "item": it["id"], "op": it["op"],
                   "need": need, "lang": lang, "rep": rep, **result}
-        with out.open("a") as f:
-            f.write(json.dumps(record, ensure_ascii=False) + "\n")
-        n += 1
-        print(f"[{n}] {key} first={record['first_action']} asked={record['asked']} "
-              f"final={record['final_action']} correct={record['correct']}", flush=True)
+        with lock:
+            with out.open("a") as f:
+                f.write(json.dumps(record, ensure_ascii=False) + "\n")
+            n[0] += 1
+            print(f"[{n[0]}] {key} first={record['first_action']} asked={record['asked']} "
+                  f"final={record['final_action']} correct={record['correct']}", flush=True)
 
+    if args.workers > 1 and args.base_url:
+        with ThreadPoolExecutor(args.workers) as pool:
+            list(pool.map(work, todo))
+    else:
+        for job in todo:
+            work(job)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,84 @@
+N000 [Qwen2.5-|en|comp] | Should I add the bottle caps Danny lost to the ones he currently has to find out how many he had initially?
+N001 [Qwen2.5-|en|abil] | How should I solve this problem since I only know addition and subtraction and this problem involves division?
+N002 [Qwen2.5-|en|abil] | Do I need to add 44 seven times to find out how much they spent on tickets?
+N003 [Qwen2.5-|en|abil] | How do I solve this problem since I only know addition and subtraction and there's no obvious way to use them here?
+N004 [Qwen2.5-|en|comp] | How do I calculate the number of minutes the machine worked yesterday given it made 9 shirts and can make 3 shirts per minute?
+N005 [Qwen2.5-|en|abil] | Danny lost 66 bottle caps and now has 25. Should I add these numbers to find out how many he started with?
+N006 [Qwen2.5-|en|comp] | How do I find the number of pages in the second chapter?
+N007 [Qwen2.5-|en|abil] | How do we solve the equation x + 4 = 8 to find out how many bags Tiffany had on Monday?
+N008 [Qwen2.5-|en|abil] | I'm trying to solve a problem where there are 2 tables with an equal number of chairs, and there are 12 chairs in total. I need to find out how many chairs are at each table. Can you help me figure out if I should add or subtract to solve this?
+N009 [Qwen2.5-|en|miss] | How many books did Paul originally have?
+N010 [Qwen2.5-|en|miss] | How many players were there in the video game?
+N011 [Qwen2.5-|en|abil] | How can we find out how many seeds were planted in each flowerbed when we haven't learned division yet?
+N012 [Qwen2.5-|en|abil] | Can I solve this problem using only addition and subtraction since I haven't learned multiplication or division?
+N013 [Qwen2.5-|en|abil] | How do I solve this problem since I only know addition and subtraction and this seems to require either subtraction or addition?
+N014 [Qwen2.5-|zh|abil] | 如何用加法解決這個問題，已知整本書有93頁，第一篇章有60頁，請問第二篇章有幾頁？
+N015 [Qwen2.5-|zh|abil] | 阿哲有 36 片餅乾要分給 18 個朋友，我應該怎樣用我已學過的加法和減法來算出每人可以得到幾片餅乾？
+N016 [Qwen2.5-|zh|comp] | 如果到站時公車上已經有41個小朋友，並且再上來2個小朋友就是41個，那麼請問到站前公車上有多少個小朋友？
+N017 [Qwen2.5-|zh|abil] | 老师，这道题目要求我们计算第二章有多少页，但是需要用到减法，而我现在只会加法和简单的减法，请问第二章具体有多少页呢？
+N018 [Qwen2.5-|zh|miss] | 後院派對中，每張桌子配幾張椅子？題目中並未提供具體數字，請確認是否需要更多資訊？
+N019 [Qwen2.5-|zh|comp] | 如何计算36片饼干分给18个朋友每人能分到多少片？
+N020 [Qwen2.5-|zh|abil] | 能否通过反复从总数中减去相同的数直到结果为零的方式来解决这个问题？例如，从32开始减去4，然后再次减去4...直到总数变为0，这样我们就能知道每个花圃里应该种几颗种子了。
+N021 [Qwen2.5-|zh|comp] | 如何计算小莉原本有的钱数？
+N022 [Qwen2.5-|zh|miss] | 老师，题目中没有给出总共有多少片饼干，请问这个信息是否需要提供？
+N023 [Qwen2.5-|zh|comp] | 山边原来住着87个鸟家族，后来搬来了18个鸟家族，我现在应该怎么做来计算总数？
+N024 [Qwen2.5-|zh|comp] | 阿当有10颗苹果，小洁有2颗苹果。请问阿当比小洁多几颗苹果？
+N025 [Qwen2.5-|zh|comp] | 如何计算每张桌子应配有的椅子数量？
+N026 [Qwen2.5-|zh|miss] | 老师，题目中没有给出阿凯工作了多少周的信息，能告诉我吗？
+N027 [Qwen2.5-|zh|comp] | 如何解这个方程2x=28来找出有多少男生？
+N028 [granite-|en|abil] | The problem asks for how many seeds were planted in each flowerbed if 32 seeds were planted equally across 8 flowerbeds.
+N029 [granite-|en|abil] | How do I find out how many bottle caps Danny originally had if I know how many he lost and how many he has now?
+N030 [granite-|en|comp] | Can I just submit the answer 115 - 78 without asking further questions?
+N031 [granite-|en|miss] | If Adam has 3 more apples than Jackie and Adam has 12 apples, how many apples does Jackie have?
+N032 [granite-|en|abil] | I'm still confused. Should I just submit the answer as 36 since I can divide equally without knowing multiplication or division?
+N033 [granite-|en|miss] | I have 36 blocks and I used 27 of them. How many blocks are left?
+N034 [granite-|en|abil] | In this type of problem, do I subtract the number of apples Jackie has from the number Adam has?
+N035 [granite-|en|abil] | How do I divide 133 by 19 to find Lewis' weekly earnings?
+N036 [granite-|en|abil] | The problem says Haley gave 2 marbles to each boy and she had 28 marbles initially. How can I determine the number of boys using only addition and subtraction?
+N037 [granite-|en|miss] | I don't have enough information. Could you please clarify how many pencils Faye had initially?
+N038 [granite-|en|comp] | Can you guide how to calculate the total number of gum pieces Robin has?
+N039 [granite-|en|abil] | Let's try solving this: Randy had 59 blocks and used 36 to build a tower. How many blocks does he have left?
+N040 [granite-|en|abil] | How do I divide the total earnings of $133 by the number of weeks, 19, to find the weekly earnings?
+N041 [granite-|en|abil] | I am sorry, I have only learned addition and subtraction so far. How can I calculate the number of bags using what I've learned?
+N042 [granite-|zh|comp] | 麵包師傅做了 169 個蛋糕，他的朋友買走了 137 個。麵包師傅還剩幾個蛋糕？
+N043 [granite-|zh|abil] | 這題是有關加法和減法的，但我目前還沒有學到乘法和除法的。小莉花了78元，剩下33元，請問我應該如何計算她最初有多少錢？
+N044 [granite-|zh|abil] | 我想找你解釋一下這題。每張門票是 token_44 元，買 7 張，這樣我們應該購票花多少錢？
+N045 [granite-|zh|comp] | 我想找一下老師，這裡的解題方法是什麼：小明每天讀頁數，整體有已知頁數，該如何算出天數？
+N046 [granite-|zh|abil] | 阿凱在採摘季工作了 19 週，一共賺了 133 元。他每週賺多少錢？
+N047 [granite-|zh|comp] | 我遇到了一個數學題目，我們有 8 個花圃，共種了 32 顆種子，每個花圃種的種子數量一樣。每個花圃種了多少顆種子？
+N048 [granite-|zh|abil] | 你有 33 片餅乾，每一袋裝 11 片，你總共有幾袋餅乾？
+N049 [granite-|zh|abil] | 我們如何解方程 X - 66 = 25 來找出小丹原來有多少個瓶蓋？
+N050 [granite-|zh|comp] | 我們如何計算所有朋友當前共有多少條命？每個人都有 8 條命，共有 8 個朋友。
+N051 [granite-|zh|comp] | if Xiao Ming reads 14 pages daily, how many days will it take to finish a 392-page book?
+N052 [granite-|zh|miss] | 阿保有一些書，他在跳蚤市場賣掉了 78 本。他還剩幾本書？
+N053 [granite-|zh|comp] | 在這道題目中，有8個朋友，每個人都有8條命。我需要知道如何將這些各自的命總和計算出總命數。
+N054 [granite-|zh|miss] | 一群朋友一起玩電動，每個人一開始有 8 條命。他們一共有幾條命？
+N055 [granite-|zh|abil] | 小丹原本有幾個瓶蓋？他弄丟了 66 個，還剩下 25 個。
+N056 [Qwen3-8B|en|miss] | The problem states that Randy used 36 blocks to build a tower, but it doesn't mention how many blocks he started with. How can I determine how many blocks are left without knowing the initial amount?
+N057 [Qwen3-8B|en|miss] | The problem states that Tiffany found 4 more bags the next day, but doesn't provide the total number of bags. How can I determine how many bags she had on Monday?
+N058 [Qwen3-8B|en|abil] | How do I calculate how much money Lewis earns each week if he earns a total of $133 over 19 weeks?
+N059 [Qwen3-8B|en|miss] | The problem states that some children were on the bus, and 2 more got on at the stop. However, there is no total number given. How many children were on the bus before the stop? The problem seems to lack sufficient information. Could you clarify or confirm the total number of children after the stop
+N060 [Qwen3-8B|en|miss] | The problem states there are 2 tables with the same number of chairs, but no total number of chairs is provided. How can I determine the number of chairs per table?
+N061 [Qwen3-8B|en|miss] | The problem states that Tiffany had some bags on Monday and found 4 more on Tuesday. However, there is no total number provided. How can I determine the number of bags she had on Monday?
+N062 [Qwen3-8B|en|miss] | The problem states that each bag holds 11 cookies but doesn't specify the total number of cookies. How many bags are there? Is there missing information?
+N063 [Qwen3-8B|en|miss] | The problem states Olivia spent $78 at a supermarket, but there's no information about how much money she had left or her initial amount. Can you clarify or provide additional details?
+N064 [Qwen3-8B|en|abil] | Can I use division to solve this problem since I haven't learned it yet?
+N065 [Qwen3-8B|en|miss] | The problem states each player started with 8 lives, but doesn't mention how many friends were in the group. Could you clarify the number of players?
+N066 [Qwen3-8B|en|miss] | The problem states Danny lost 66 bottle caps but doesn't provide information about how many he has left. Is there missing data, or should I assume he has none left?
+N067 [Qwen3-8B|en|miss] | The problem states Lewis earns a total of $133 over some weeks, but the number of weeks isn't specified. How many weeks are we considering for this calculation?
+N068 [Qwen3-8B|en|miss] | The problem states that Adam has 3 more apples than Jackie, but it doesn't provide additional information to determine how many apples Jackie has. Is there missing information, or is there a specific context or number I should consider?
+N069 [Qwen3-8B|en|miss] | The problem states that Randy used 36 blocks to build a tower, but it doesn't mention how many blocks he started with. Can you clarify the total number of blocks Randy had initially?
+N070 [Qwen3-8B|zh|miss] | 題目中提到的『一群朋友』有多少人？請確認人數或提供其他條件。
+N071 [Qwen3-8B|zh|abil] | 我需要计算392除以14的天数，但还没有学过除法，应该用什么方法解决？
+N072 [Qwen3-8B|zh|miss] | 題目中只提到阿當比小潔多3顆蘋果，但沒有給出阿當的數量或總數，請問是否有其他條件或需要補充的資訊？
+N073 [Qwen3-8B|zh|miss] | 題目只提到阿當比小潔多3顆蘋果，但沒有提供阿當的蘋果數或總數，這樣是否無法計算小潔的蘋果數？請確認題目是否有遺漏或需要其他條件。
+N074 [Qwen3-8B|zh|miss] | 题目中提到阿当比小洁多3颗苹果，但问题问小洁有几颗苹果。题目缺少阿当的具体数量或总数量，无法直接计算。请老师确认是否有遗漏的信息或是否需要进一步的条件。
+N075 [Qwen3-8B|zh|miss] | 題目中提到阿凱工作了幾週，但未說明具體週數，請問是否有遺漏的條件？
+N076 [Qwen3-8B|zh|miss] | 小潔有幾顆蘋果？
+N077 [Qwen3-8B|zh|miss] | 題目中提到的『一群朋友』原本有多少人？請確認題目是否有遺漏的條件或數據。
+N078 [Qwen3-8B|zh|miss] | 題目中沒有提到麵包師傅原本有多少個蛋糕，是否漏掉了初始數量？
+N079 [Qwen3-8B|zh|miss] | 題目中沒有提到到站後總共有多少個小朋友，請問是否還有其他條件或數據需要補充？
+N080 [Qwen3-8B|zh|miss] | 題目中沒有提到總共有多少顆彈珠，因此無法計算分給幾個男生。請確認題目是否完整或是否有其他條件。
+N081 [Qwen3-8B|zh|abil] | 我需要計算阿凱每週賺多少錢，總共有133元，工作了19週。但我不確定該如何用加法或減法來解決這道題，可以請老師指導嗎？
+N082 [Qwen3-8B|zh|miss] | 題目中沒有說明每包口香糖有多少顆，請問是否需要假設每包的顆數或是否有其他條件？
+N083 [Qwen3-8B|zh|miss] | 題目中提到『一群朋友』，但沒有說明原本有幾個人，請確認是否還有其他條件或數字被遺漏？
