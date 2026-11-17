@@ -35,6 +35,7 @@ pilot/
   judge/            求助類型編碼（工具性 vs 執行性）與只回文字的分類；含人工判定樣本與驗證集
   code_caps_text.py、code_step1_text.py   只回文字回覆的關鍵字編碼
   analyze*.py、report_figures*.py         彙整、統計檢定（persona 層次置換 + Holm）、作圖
+  slides_*.py       投影片用圖：正文數據圖、示意圖、附錄的全部模型版本（輸出到 results/report/slides/）
   run_*.sh          實際使用的 GPU 排程腳本（伺服器環境專用，留作紀錄）
   results/          所有原始結果（每個 episode 一行 jsonl，含完整工具呼叫紀錄）、摘要 txt、報告與圖
 notes/              相關論文的中文精讀筆記
@@ -87,6 +88,7 @@ python analyze_textask.py > results/textask_summary.txt              # 文字求
 python judge/code_asks_more.py     # 求助類型擴大到所有開源模型（報告 7.1）
 python analyze_stats_lowability.py > results/stats_lowability.txt
 python report_figures.py && python report_figures_round2.py
+python slides_figures.py && python slides_diagrams.py && python slides_appendix_figures.py   # 投影片用圖
 ```
 
 ## 資料來源與授權

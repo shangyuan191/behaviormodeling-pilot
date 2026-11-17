@@ -651,6 +651,7 @@ Claude 分層抽查 89 則，規則只錯 1 則，已修正；沒有獨立驗證
 | Qwen3 關閉思考 繁中 | +0.6 / −20 | +0.4 / +5 | +0.4 / −25 | +2.7 / −69 | +2.3 / −75 |
 
 - 在 Qwen3、Llama、Qwen2.5 上，TA、TAC、TACT 三層的說與做幾乎都同向變化。
+- 變化的幅度因模型而異：Qwen3 關閉思考英文寫到行動後，求助率從 82% 降到 23%，但迴避分數只從 −4.2 升到 −3.4，幾乎是「做變了、說沒變」；Granite 說與做都沒有變。5 組設定 × 2 種語言的散布圖見投影片附錄 B4（`results/report/slides/appendix/A14_say_do_all.png`）。
 - 0 與 T 層常出現「說變了、做沒變」：模型在問卷上表現出 persona 的態度，但 tool call 不受影響。這和 The Personality Illusion（精讀 01）一致，並延伸到求助行為。
 - 「說」只在 persona 也控制得了「做」的時候才能預測「做」。低求助方向的相關很強，高求助方向很弱，主要是行為到頂。
 - 分段計算的相關（前段 L0、中性、0、T；後段 TA、TAC、TACT）大多是後段較強，但每段只有 9–10 個點，只能當參考。
@@ -850,7 +851,7 @@ Claude 分層抽查 89 則，規則只錯 1 則，已修正；沒有獨立驗證
 | 原始結果 | `pilot/results/*.jsonl`（無 persona 基線）、`results/step1/`（TACT 階梯）、`step1_extra/`（低求助 × 只學過加減、Llama 無 persona 補樣本）、`step1_third/`、`survey/`、`caps/`、`step1_toolname/`；每個 episode 一行，含完整工具呼叫紀錄 |
 | 分類與編碼 | `pilot/judge/`（只回文字的分類 `code_text_only.py`、求助類型 `code_asks.py`（擴大到所有開源模型：`code_asks_more.py` → `asks_coded_all.json`）、人工判定樣本與驗證集）；CAPS 文字編碼 `code_caps_text.py` → `results/caps_coded/`；工具名稱檢查的文字編碼 `code_step1_text.py` → `results/step1_toolname_coded/` |
 | 分析與摘要 | `analyze_round2.py` → `results/round2_summary.txt`；`analyze_stats.py` → `results/stats_summary.txt`；`analyze_toolname.py` → `results/toolname_summary.txt`、`results/toolname_text_summary.txt`；`analyze_lowability.py` → `results/lowability_summary.txt`；`analyze_textask.py` → `results/textask_summary.txt`（文字求助版）；`analyze_stats_lowability.py` → `results/stats_lowability.txt` |
-| 圖 | `pilot/results/report/`：圖 3 由 `report_figures.py` 產生，其餘由 `report_figures_round2.py` 產生 |
+| 圖 | `pilot/results/report/`：圖 3 由 `report_figures.py` 產生，其餘由 `report_figures_round2.py` 產生；投影片用圖由 `slides_figures.py`（正文）、`slides_diagrams.py`（示意圖）、`slides_appendix_figures.py`（正文只挑部分模型的圖，全部模型版本）產生，存在 `results/report/slides/` |
 | 排程腳本 | `pilot/run_*.sh`（伺服器環境專用） |
 | Granite 對話模板 | `pilot/templates/granite33_tools.jinja` |
 
