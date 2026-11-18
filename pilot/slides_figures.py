@@ -303,7 +303,31 @@ def s16_third():
     save(fig, "s16_third.png")
 
 
+# ---------------------------------------------------------------- 高求助 persona × 只學過加減的乘除題（老師建議的方向）
+def s09b_high_ability():
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6.4), sharey=True)
+    for ax, lang in zip(axes, ("en", "zh")):
+        shade_action(ax)
+        for tag, name, color in MODELS:
+            rows = rf.panel(load(RES / "step1" / f"{tag}-high.jsonl"), "high", "ability", "muldiv")
+            ys, _ = rf.ladder_points(rows, lang)
+            ax.plot(range(len(LV)), ys, color=color, marker="o", ms=7, lw=2.6 if tag != "granite-3.3-8b-instruct" else 2,
+                    ls="-" if tag != "granite-3.3-8b-instruct" else "--", label=name)
+            print(lang, name, " ".join(f"{y:.0%}" for y in ys))
+        ladder_axes(ax)
+        ax.set_title(("英文" if lang == "en" else "繁中") + "｜高求助 persona × 只學過加減的乘除題")
+        pct_axis(ax)
+    axes[1].set_ylabel("")
+    h, l = axes[0].get_legend_handles_labels()
+    fig.legend(h, l, loc="lower center", ncol=5, fontsize=14, bbox_to_anchor=(.5, 0))
+    fig.tight_layout(rect=(0, .08, 1, 1)); fig._laid = True
+    save(fig, "s09b_high_ability.png")
+
+
 if __name__ == "__main__":
-    for f in (s07_baseline, s08_think_text, s09_ladder, s10_ability, s11_toolname, s12_types,
-              s13_not_ask, s14_say_do, s15_caps, s16_third):
-        f()
+    import sys
+    fs = (s07_baseline, s08_think_text, s09_ladder, s09b_high_ability, s10_ability, s11_toolname, s12_types,
+          s13_not_ask, s14_say_do, s15_caps, s16_third)
+    for f in fs:
+        if len(sys.argv) == 1 or f.__name__ in sys.argv[1:]:
+            f()
