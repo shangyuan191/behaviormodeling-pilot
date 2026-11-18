@@ -17,20 +17,20 @@ LANGS = (("en", "英文"), ("zh", "繁中"))
 
 
 def save(fig, name):
-    fig.tight_layout()
+    fig.tight_layout(rect=(0, 0, 1, 0.93) if fig.legends else (0, 0, 1, 1))
     fig.savefig(OUT / name, dpi=200)
     plt.close(fig)
     print("wrote", name)
 
 
 def small_ladder_axes(ax, first_col, first_row, last_row, title):
-    sf.ladder_axes(ax)
-    ax.tick_params(axis="x", labelsize=11)
+    ax.set_xticks(range(len(LV)), ["無", "中性", "0", "T", "TA", "TAC", "TACT"], fontsize=14, rotation=45)
+    ax.set_xlim(-0.4, 6.4)
     if not last_row:
         ax.set_xticklabels([])
     sf.pct_axis(ax, "求助率" if first_col else "")
     if first_row:
-        ax.set_title(title, fontsize=16, pad=26)
+        ax.set_title(title, fontsize=19, pad=28)
 
 
 def fmt(ys):
@@ -39,7 +39,7 @@ def fmt(ys):
 
 # ---------------------------------------------------------------- A10：缺條件題 vs 只學過加減的乘除題
 def a10_ability():
-    fig, axes = plt.subplots(2, 5, figsize=(22, 9), sharey=True)
+    fig, axes = plt.subplots(2, 5, figsize=(16, 6.8), sharey=True)
     print("\n[A10] 低求助階梯｜實線＝缺條件題、虛線＝只學過加減的乘除題")
     for c, (tag, name, _) in enumerate(MODELS):
         miss = rf.panel(load(RES / "step1" / f"{tag}-low.jsonl"), "low", "missing")
@@ -51,12 +51,12 @@ def a10_ability():
             sf.shade_action(ax)
             for rows, lab, ls, col in ((miss, "缺條件題", "-", INK), (abil, "只學過加減的乘除題", "--", ACCENT2)):
                 ys, _ = rf.ladder_points(rows, lang)
-                ax.plot(range(len(LV)), ys, ls=ls, color=col, marker="o", ms=5, lw=2.2, label=lab)
+                ax.plot(range(len(LV)), ys, ls=ls, color=col, marker="o", ms=6, lw=2.2, label=lab)
                 print(f"  {name:12s} {lname} {lab:10s} {fmt(ys)}")
             small_ladder_axes(ax, c == 0, r_ == 0, r_ == 1, name)
             if c == 0:
                 ax.set_ylabel(f"{lname}\n求助率")
-    axes[0, 0].legend(loc="lower left", fontsize=12)
+    fig.legend(*axes[0, 0].get_legend_handles_labels(), loc="upper center", ncol=3, fontsize=16)
     save(fig, "A10_ability_all.png")
 
 
@@ -64,7 +64,7 @@ def a10_ability():
 def a11_toolname():
     names = [("ask_teacher", "ask_teacher（原版）", INK, "-"), ("ask_for_help", "ask_for_help（不提老師）", ACCENT2, "--"),
              ("raise_hand_neutral", "raise_hand（舉手問老師）", ACCENT, ":")]
-    fig, axes = plt.subplots(2, 5, figsize=(22, 9), sharey=True)
+    fig, axes = plt.subplots(2, 5, figsize=(16, 6.8), sharey=True)
     print("\n[A11] 低求助 × 缺條件題｜三種求助工具名稱")
     for c, (tag, name, _) in enumerate(MODELS):
         for r_, (lang, lname) in enumerate(LANGS):
@@ -73,18 +73,18 @@ def a11_toolname():
             for tool, lab, col, ls in names:
                 p = RES / "step1" / f"{tag}-low.jsonl" if tool == "ask_teacher" else RES / "step1_toolname" / f"{tag}-low-{tool}.jsonl"
                 ys, _ = rf.ladder_points(rf.panel(load(p), "low", "missing"), lang)
-                ax.plot(range(len(LV)), ys, ls=ls, color=col, marker="o", ms=5, lw=2.2, label=lab)
+                ax.plot(range(len(LV)), ys, ls=ls, color=col, marker="o", ms=6, lw=2.2, label=lab)
                 print(f"  {name:12s} {lname} {tool:18s} {fmt(ys)}")
             small_ladder_axes(ax, c == 0, r_ == 0, r_ == 1, name)
             if c == 0:
                 ax.set_ylabel(f"{lname}\n呼叫求助工具的比例")
-    axes[0, 0].legend(loc="lower left", fontsize=11)
+    fig.legend(*axes[0, 0].get_legend_handles_labels(), loc="upper center", ncol=3, fontsize=16)
     save(fig, "A11_toolname_all.png")
 
 
 # ---------------------------------------------------------------- A13：不問的時候做什麼
 def a13_not_ask():
-    fig, axes = plt.subplots(2, 2, figsize=(18, 10), sharey=True)
+    fig, axes = plt.subplots(2, 2, figsize=(14, 8), sharey=True)
     print("\n[A13] 最高兩層低求助 persona、只學過加減｜跳過率、答對率（乘除／加減）")
     for r_, (lang, lname) in enumerate(LANGS):
         for k, (key, title) in enumerate((("skip", "跳過率"), ("correct", "答對率"))):
@@ -99,7 +99,7 @@ def a13_not_ask():
                     vals.append(v)
                     ax.bar(i + (j - .5) * .38, v, width=.36, color=color, edgecolor=INK, lw=.8,
                            label=lab if i == 0 else None)
-                    ax.text(i + (j - .5) * .38, v + .02, f"{v:.0%}", ha="center", fontsize=12)
+                    ax.text(i + (j - .5) * .38, v + .02, f"{v:.0%}", ha="center", fontsize=15)
                 print(f"  {lname} {title} {name:12s} 乘除 {vals[0]:4.0%}  加減 {vals[1]:4.0%}")
             ax.set_xticks(range(len(MODELS)), [n.replace(" ", "\n") for _, n, _ in MODELS], fontsize=14)
             ax.set_title(f"{lname}｜{title}", pad=12)
@@ -113,7 +113,7 @@ def a14_say_do():
     from collections import defaultdict
     groups = [({"L0", "neutral"}, "無／中性", "white", "s"), ({"0", "T"}, "0、T（沒寫行動）", GRAY, "o"),
               ({"TA", "TAC", "TACT"}, "T+A 以上（寫到行動）", INK, "^")]
-    fig, axes = plt.subplots(2, 5, figsize=(22, 9), sharey=True, sharex=True)
+    fig, axes = plt.subplots(2, 5, figsize=(16, 6.8), sharey=True, sharex=True)
     print("\n[A14] 說與做｜每組 persona 的（問卷迴避分數平均, 實際求助率平均）")
     for c, (tag, name, _) in enumerate(MODELS):
         sv = load(RES / "survey" / f"{tag}.jsonl")
@@ -141,16 +141,16 @@ def a14_say_do():
             print(f"  {name:12s} {lname} n_persona={len(avoid):2d}  " + "  ".join(summary))
             sf.pct_axis(ax, f"{lname}\n實際求助率" if c == 0 else "")
             if r_ == 0:
-                ax.set_title(name, fontsize=16, pad=12)
+                ax.set_title(name, fontsize=19, pad=8)
             if r_ == 1:
-                ax.set_xlabel("問卷迴避分數（越右越迴避）", fontsize=12)
-    axes[0, 0].legend(loc="lower left", fontsize=11)
+                ax.set_xlabel("問卷迴避分數（越右越迴避）", fontsize=15)
+    fig.legend(*axes[0, 0].get_legend_handles_labels(), loc="upper center", ncol=3, fontsize=16)
     save(fig, "A14_say_do_all.png")
 
 
 # ---------------------------------------------------------------- A16：第三人稱
 def a16_third():
-    fig, axes = plt.subplots(2, 5, figsize=(22, 9), sharey=True)
+    fig, axes = plt.subplots(2, 5, figsize=(16, 6.8), sharey=True)
     print("\n[A16a] 低求助 × 缺條件題｜第一人稱（實線）vs 第三人稱（虛線）")
     for c, (tag, name, _) in enumerate(MODELS):
         for r_, (lang, lname) in enumerate(LANGS):
@@ -159,15 +159,15 @@ def a16_third():
             for sub, suf, lab, ls, col in (("step1", "", "第一人稱：你……", "-", INK),
                                             ("step1_third", "-third", "第三人稱：這位學生……", "--", ACCENT2)):
                 ys, _ = rf.ladder_points(rf.panel(load(RES / sub / f"{tag}-low{suf}.jsonl"), "low", "missing"), lang)
-                ax.plot(range(len(LV)), ys, ls=ls, color=col, marker="o", ms=5, lw=2.2, label=lab)
+                ax.plot(range(len(LV)), ys, ls=ls, color=col, marker="o", ms=6, lw=2.2, label=lab)
                 print(f"  {name:12s} {lname} {lab[:4]} {fmt(ys)}")
             small_ladder_axes(ax, c == 0, r_ == 0, r_ == 1, name)
             if c == 0:
                 ax.set_ylabel(f"{lname}\n求助率")
-    axes[0, 0].legend(loc="lower left", fontsize=11)
+    fig.legend(*axes[0, 0].get_legend_handles_labels(), loc="upper center", ncol=3, fontsize=16)
     save(fig, "A16a_third_ladder_all.png")
 
-    fig, axes = plt.subplots(1, 2, figsize=(18, 6.2), sharey=True)
+    fig, axes = plt.subplots(1, 2, figsize=(14, 5), sharey=True)
     print("\n[A16b] 能力外洩｜高求助 TACT persona、只學過加減的乘除題答對率（第一 / 第三人稱）")
     for ax, (lang, lname) in zip(axes, LANGS):
         for i, (tag, name, _) in enumerate(MODELS):
@@ -178,12 +178,12 @@ def a16_third():
                 v = sum(bool(r["correct"]) for r in rows) / len(rows)
                 vals.append(v)
                 ax.bar(i + (j - .5) * .38, v, width=.36, color=color, edgecolor=INK, lw=.8, label=lab if i == 0 else None)
-                ax.text(i + (j - .5) * .38, v + .02, f"{v:.0%}", ha="center", fontsize=12)
+                ax.text(i + (j - .5) * .38, v + .02, f"{v:.0%}", ha="center", fontsize=15)
             print(f"  {lname} {name:12s} 第一 {vals[0]:4.0%}  第三 {vals[1]:4.0%}")
         ax.set_xticks(range(len(MODELS)), [n.replace(" ", "\n") for _, n, _ in MODELS], fontsize=14)
         ax.set_title(f"能力外洩｜{lname}", pad=12)
         sf.pct_axis(ax, "答對率" if lang == "en" else "")
-    axes[0].legend(loc="upper left")
+    axes[0].legend(loc="upper right", fontsize=15)
     save(fig, "A16b_third_leak_all.png")
 
 
